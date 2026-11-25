@@ -1,0 +1,46 @@
+4
+
+14. Article 9 of the domestic regulations sets out the discretionary reasons for which a request
+for access to environmental information may be refused. The “internal communications”
+exception is transposed by article 9(2)(d) of the domestic regulations.
+
+15. Article 8 of the domestic regulations provides certain mandatory reasons why a request
+for access to information on the environment shall be refused. The “proceedings”
+exception is transposed by article 8(a)(iv).
+
+16. Article 8(b) of the domestic regulations provides that a public authority shall not make
+available environmental information “to the extent that it would involve the disclosure of
+discussions at one or more meetings of the Government”.
+
+17. Article 10 of the domestic regulations contains certain incidental provisions relating to
+the refusal of a request for environmental information as follows:
+
+“10.(1) Notwithstanding articles 8 and 9 (1)(c), a request for
+environmental information shall not be refused where the
+request relates to information on emissions into the
+environment.
+
+(2) The reference in sub-article (1) to information on emissions
+into the environment does not include a reference to any
+discussions on the matter of such emissions at any meeting of
+the Government.
+
+(3) The public authority shall consider each request on an
+individual basis and weigh the public interest served by
+disclosure against the interest served by refusal.
+
+(4) The grounds for refusal of a request for environmental
+information shall be interpreted on a restrictive basis having
+regard to the public interest served by disclosure.
+
+(5) Nothing in article 8 or 9 shall authorise a public authority not
+to make available environmental information which, although
+held with information to which article 8 or 9 relates, may be
+separated from such information.”
+
+18. The High Court in Right to Know clg v. An Taoiseach [2018] IEHC 372; [2019] 3 LR. 22
+has given a purposive interpretation to the domestic regulations. The exception from
+disclosure allowed in respect of discussions at meetings of the Government (under
+article 10(2)) must now be read as implicitly subject to the requirements of article 10(3),
+(4) and (5) of the domestic regulations. The High Court held that the constitutional
+protection afforded to cabinet confidentiality, as reflected under article 8(b) of the

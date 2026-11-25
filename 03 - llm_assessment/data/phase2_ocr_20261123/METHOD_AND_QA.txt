@@ -1,0 +1,22 @@
+LOCAL OCR RECOVERY - METHOD AND QUALITY REVIEW
+
+Two existing English scanned PDFs were recovered locally for phase-2 document preparation. The original corpus was not modified. No network request, paid model call or external OCR service was used.
+
+Sources and recovered text
+- C-84/22: C-84_22_01_11.pdf, 40 PDF pages; 39 text-bearing pages recovered. PDF page 10 is a genuine blank separator before the appended High Court judgment. The combined UTF-8 OCR sidecar contains 77,664 characters, including form-feed page separators.
+- C-708/20: C-708_20_01_08.pdf, 14 PDF pages; 13 text-bearing pages recovered. PDF page 4 is a genuine blank separator after the order. The combined UTF-8 OCR sidecar contains 25,662 characters, including form-feed page separators.
+
+Method
+Poppler rendered every page at 300 dpi in greyscale. Tesseract used the installed English language model and LSTM engine (OEM 1). An initial automatic-segmentation run (PSM 3) was retained in raw_psm3 for audit. A single-block run (PSM 6) was selected for text-bearing pages after source-image comparison: it better preserved paragraph-number order and recovered the paired cover-table values. Confirmed blank pages retain the empty PSM3 result. No rotation, summarisation, legal rewriting, inferred completion or editorial content was added to the OCR bodies. Page boundaries are preserved with form-feed separators; the original numbering remains in the images.
+
+Quality review
+All 54 source pages were visually inspected in labelled contact sheets and checked against page-level text/counts. First, middle and last pages, both blank pages, and every page with character-weighted Tesseract word confidence below 93 were additionally reviewed at readable resolution. All 52 text-bearing pages contain coherent English document text; no text-bearing page was dropped. Original and page-output SHA-256 checks were verified. The cover table of C-84/22 has lower confidence because of the court logo and table layout, but its case reference and typed lodgment/register dates were checked against the source image. Tesseract confidence is a diagnostic, not a calibrated accuracy percentage. Human review checked page presence, layout and OCR coverage only; no human legal interpretation was added.
+
+Residual limitations
+The raw OCR retains minor recognition errors in logos, underlined headings, paragraph labels, punctuation and some names. Handwriting and signatures are not reliably transcribed. C-708/20 contains deliberate redactions; concealed names were not reconstructed. For exact legal quotations, personal names, identifiers and numerals, consult the unchanged source PDF and the supplied page previews. This recovery is not a certified word-perfect legal transcription.
+
+Other previously reported source failures
+The failed EUR-Lex Opinion URLs for C-380/22 P and C-499/24 P do not create further content gaps: complete English Curia texts already exist as C-380_22_P_03_10.txt and C-499_24_P_03_09.txt and share the respective event_source_keys. No replacement opinion text was generated.
+
+Files
+The two combined TXT files are directly in this directory. Each source subdirectory contains selected pages/*.txt and pages/*.tsv, plus the initial raw_psm3 diagnostics. page_ocr_metrics.csv records all 54 pages, chosen segmentation, confidence diagnostics, page hashes and review classifications. ocr_metadata.json records original hashes, tool versions, commands and page accounting. qa/ contains contact sheets, readable review images and initial-run metrics. checksums.sha256 covers all delivered files except itself.

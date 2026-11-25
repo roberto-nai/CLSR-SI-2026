@@ -1,0 +1,23 @@
+{
+  "initial": [
+    "Application (OJ)",
+    "Decision to review",
+    "Decision to review (OJ)",
+    "Request for a preliminary ruling",
+    "Request for a preliminary ruling - Addendum",
+    "Request for a preliminary ruling - Corrigendum"
+  ],
+  "final": [
+    "Judgment",
+    "Judgment (Information)",
+    "Judgment (OJ)",
+    "Judgment (Summary)",
+    "Opinions of the Court",
+    "Order",
+    "Order (Information)",
+    "Order (OJ)",
+    "Order (Summary)",
+    "Removal (OJ)",
+    "Ruling (Summary)"
+  ]
+}

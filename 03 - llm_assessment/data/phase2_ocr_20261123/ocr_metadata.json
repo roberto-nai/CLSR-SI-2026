@@ -1,0 +1,119 @@
+{
+  "created_utc": "2026-11-23T11:48:39.881351+00:00",
+  "method": "Local OCR, no model API or network calls.",
+  "tesseract": "tesseract 5.5.1",
+  "pdftoppm": "pdftoppm version 25.02.0",
+  "language": "eng",
+  "render_dpi": 300,
+  "ocr_engine_mode": 1,
+  "page_segmentation_mode": "6 for text pages; 3 for confirmed source-blank pages",
+  "thread_policy": "Three concurrent page jobs; OMP_THREAD_LIMIT=1 per Tesseract process.",
+  "page_separator": "newline, form feed, newline",
+  "sources": [
+    {
+      "stem": "C-84_22_01_11",
+      "source_path": "/Volumes/SAMSUNG-PHD/PhD/Articoli MIEI/CLSR Special Issue 2026 - CURIA e DECLARE/curia_gpai/00 - event_log/data_text/C-84_22_01_11.pdf",
+      "source_sha256": "6bee8f90f5edaa2699b328d188cec6f9046010aafcabc215c189528f18552b13",
+      "page_count": 40,
+      "ocr_text_file": "C-84_22_01_11.txt",
+      "ocr_text_sha256": "708a275a66629fa0db83750bec12a90139308a2ba0cb74bacf49d242b92b8622",
+      "ocr_characters": 77664,
+      "nonempty_pages": 39,
+      "pages_requiring_review": [],
+      "original_hash_unchanged": true,
+      "blank_pdf_pages": [
+        10
+      ],
+      "case_id": "C-84/22",
+      "source_event_date": "2022-02-08",
+      "source_document_role": "Request for a preliminary ruling",
+      "source_metadata_basis": "Existing upstream document-event provenance, not inferred from OCR.",
+      "text_bearing_pages": 39,
+      "all_pdf_pages_accounted_for": true,
+      "mean_page_character_weighted_confidence": 95.172,
+      "minimum_page_character_weighted_confidence": 88.401,
+      "full_resolution_review_pages": [
+        1,
+        10,
+        20,
+        40
+      ],
+      "lower_confidence_pages_reviewed": [
+        1
+      ]
+    },
+    {
+      "stem": "C-708_20_01_08",
+      "source_path": "/Volumes/SAMSUNG-PHD/PhD/Articoli MIEI/CLSR Special Issue 2026 - CURIA e DECLARE/curia_gpai/00 - event_log/data_text/C-708_20_01_08.pdf",
+      "source_sha256": "d2938f4dcb1e04575efab46443a8ec0cfe46a69d18f06718e9753009d0fa2329",
+      "page_count": 14,
+      "ocr_text_file": "C-708_20_01_08.txt",
+      "ocr_text_sha256": "6516629e5c6e32ac8e14bd29300f9a6cb2d4a2c7660e3a1690c8af843cf934d7",
+      "ocr_characters": 25662,
+      "nonempty_pages": 13,
+      "pages_requiring_review": [],
+      "original_hash_unchanged": true,
+      "blank_pdf_pages": [
+        4
+      ],
+      "case_id": "C-708/20",
+      "source_event_date": "2020-12-30",
+      "source_document_role": "Request for a preliminary ruling",
+      "source_metadata_basis": "Existing upstream document-event provenance, not inferred from OCR.",
+      "text_bearing_pages": 13,
+      "all_pdf_pages_accounted_for": true,
+      "mean_page_character_weighted_confidence": 93.15,
+      "minimum_page_character_weighted_confidence": 91.626,
+      "full_resolution_review_pages": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        14
+      ],
+      "lower_confidence_pages_reviewed": [
+        1,
+        3,
+        6,
+        7,
+        8,
+        14
+      ]
+    }
+  ],
+  "qa_status": "Complete: all 54 source pages accounted for; 52 text-bearing pages recovered; 2 source-blank pages visually confirmed.",
+  "confidence_note": "Tesseract word confidence is a diagnostic, not a calibrated accuracy estimate.",
+  "selection_reason": "PSM6 preserves the single-column paragraph-number order and paired cover-table values; selected after source-image review, not solely from confidence.",
+  "completed_utc": "2026-11-23T11:53:56.222231+00:00",
+  "page_accounting": {
+    "total_pdf_pages": 54,
+    "text_bearing_pages": 52,
+    "confirmed_blank_pdf_pages": {
+      "C-84/22": [
+        10
+      ],
+      "C-708/20": [
+        4
+      ]
+    },
+    "dropped_pdf_pages": 0
+  },
+  "source_image_review": "Every source page inspected in labelled contact sheets; first/middle/last pages, both blanks and all pages with character-weighted word confidence below93 additionally reviewed at readable resolution.",
+  "content_policy": "Raw selected OCR only, with form-feed page separators. No legal rewriting, inferred words, editorial page headers, reconstruction of redacted names, or annotations inside the OCR text.",
+  "observed_limitations": [
+    "OCR artefacts remain in logos, underlined headings, paragraph labels, punctuation and some names.",
+    "Handwritten signatures and redacted regions are not reliable OCR evidence and were not reconstructed.",
+    "Page-level checks establish recovered content and order, not a certified word-perfect legal transcription."
+  ],
+  "commands": {
+    "render": "pdftoppm -r 300 -gray -png SOURCE.pdf TEMP/page",
+    "ocr_text_pages": "OMP_THREAD_LIMIT=1 tesseract IMAGE OUTPUT -l eng --oem 1 --psm 6 --dpi 300 txt tsv",
+    "diagnostic_and_blank_pages": "OMP_THREAD_LIMIT=1 tesseract IMAGE OUTPUT -l eng --oem 1 --psm 3 --dpi 300 txt tsv"
+  },
+  "output_sha256_policy": "checksums.sha256 covers every delivered OCR/QA file except the checksum listing itself.",
+  "note_other_failed_sources": "The failed EUR-Lex Opinion representations for C-380/22 P and C-499/24 P have existing complete local Curia TXT alternatives linked to the same source events; they are not additional document-content gaps.",
+  "no_human_legal_interpretation": true,
+  "human_review_scope": "Page accounting, orientation, visible text presence, reading order and OCR coverage; no human legal interpretation or rewriting."
+}

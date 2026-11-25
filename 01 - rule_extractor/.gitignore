@@ -1,0 +1,47 @@
+# Python bytecode, caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# ZIP archives at any depth
+*.[zZ][iI][pP]
+
+# Local archives, tests and temporary directories at any depth
+_old*/
+*_old/
+_test*/
+*_test/
+*_tests/
+_backup*/
+*_backup/
+_bak*/
+_archive*/
+_tmp*/
+_temp*/
+
+# Editors and operating-system metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+._*
+Thumbs.db
+
+# Prepared data and experiment outputs: retain only directory placeholders
+/data/*
+!/data/.gitkeep
+/experiments/*
+!/experiments/.gitkeep

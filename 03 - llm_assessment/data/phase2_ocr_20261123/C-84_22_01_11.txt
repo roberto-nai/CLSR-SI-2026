@@ -1,0 +1,1253 @@
+\gcvrn yf
+
+Published ID : C-84/22
+
+Document number e 1
+
+Register number >: 1213173
+
+Date of lodgment : 08/02/2022
+
+Date of entry in the register > 09/02/2022
+
+Type of document : Reference for a preliminary ruling
+: Document
+
+e-Curia lodgment reference > DC161424
+
+File number F 1
+
+Person lodging document : Simons Garrett (J21507)
+
+THE HIGH COURT OF IRELAND
+ORDER FOR A REFERENCE PURSUANT TO ARTICLE 267 OF THE TREATY ON
+THE FUNCTIONING OF THE EUROPEAN UNION
+MR. JUSTICE SIMONS
+8 FEBRUARY 2022
+IN THE MATTER OF AN APPLICATION FOR JUDICIAL REVIEW
+BETWEEN
+RIGHT TO KNOW CLG
+APPLICANT
+AND
+AN TAOISEACH
+RESPONDENT
+1. IDENTITY OF THE COURT MAKING THE REFERENCE
+1. This reference is made by the High Court of Ireland (Mr. Justice Garrett Simons) (“the
+referring court’). The main proceedings bear the record number 2018 No, 942 J.R.
+2. The reference has been submitted by e-curia. In the event that it is necessary to
+communicate instead by way of post, the address is as follows: Principal Registrar, The
+High Court, Four Courts, Inns Quay, Dublin 7, Ireland.
+NO REDACTION REQUIRED
+
+2
+
+2. IDENTITY OF THE PARTIES TO THE MAIN PROCEEDINGS
+
+3. The Applicant is a company called Right to Know CLG, and is represented by Noel
+Travers, SC and David Browne of the Bar of Ireland instructed by FP Logue Solicitors.
+The address for service is FP Logue Solicitors, 8-10 Coke Lane, Smithfield, Dublin, DO7
+EN2Y.
+
+4. The Respondent is An Taoiseach and is represented by Brian Kennedy, SC and Aoife
+Carroll of the Bar of Ireland instructed by the Chief State Solicitor. The address for
+service is Chief State Solicitor, Osmond House, Ship Street Little, Dublin 8, D08 V8C5;
+and Embassy of Ireland, 28 route d’Arlon, Luxembourg. The Chief State Solicitor will
+also accept service by e-curia.
+
+3. SUBJECT MATTER OF THE DISPUTE IN THE MAIN PROCEEDINGS
+
+5. | The main proceedings seek judicial review of a decision to refuse a request for access to
+documents pursuant to the domestic legislation which transposes Directive 2003/4/EC of
+the European Parliament and of the Council of 28 January 2003 on public access to
+environmental information and repealing Council Directive 90/313/EEC (“the
+Environmental Information Directive’).
+
+6. The request had been made on 8 March 2016 by the Applicant. The request sought access
+to “all documents which show cabinet discussions on Ireland's greenhouse gas emissions
+from 2002 to 2016”. The reference to the “cabinet” is to be understood as referring to
+the members of the executive branch of government (“the Government of Ireland’).
+
+7. The request had been refused, following an internal review procedure, on 27 June 2016.
+This decision was then the subject of an earlier set of judicial review proceedings before
+the High Court. Those earlier judicial review proceedings will be referred to as “the first
+judicial review proceedings” where convenient.
+
+8. The High Court delivered a judgment in the first judicial review proceedings on | June
+2018, Right to Know clgv. An Taoiseach [2018] TIEHC 372; [2019] 3 1.R.22. The
+judgment held, inter alia, that the decision-maker had failed to carry out the balancing
+exercise as required under Article 4 of the Environmental Information Directive, i.e. the
+public interest served by disclosure must be weighed against the interest served by the
+refusal. Relevantly, the judgment also ruled that meetings of the Government of Ireland
+
+3
+are properly characterised as entailing “internal communications” of a public authority.
+The significance of this ruling being that the requirement, under the Environmental
+Information Directive, for mandatory disclosure of records relating to information on
+emissions into the environment did not apply. This ruling applied the precedent of an
+earlier judgment of the High Court, An Taoiseach v. Commissioner for Environmental
+Information [2010] TEHC 241; [2013] 2 LR. 510.
+
+9, The access request was remitted to the decision-maker for reconsideration. The decision-
+maker reconsidered the request and made a fresh decision on 16 August 2018. The
+validity of this decision is now challenged in the main proceedings. The Applicant seeks
+to reagitate an issue determined against it in the first judicial review proceedings, namely
+the finding that meetings of the Government of Ireland are properly characterised as
+entailing “internal communications” of a public authority.
+
+4. EUROPEAN AND DOMESTIC LEGISLATION
+
+10. The Environmental Information Directive distinguishes between the “infernal
+communications” of a public authority (Article 4(1)(e)), and the “proceedings” of a
+public authority (Article 4(2)(a)).
+
+11. Both Article 4(1)(e) and Article 4(2)(a) of the Environmental Information Directive are
+qualified by the second paragraph of Article 4(2), which states:
+
+“The grounds for refusal mentioned in paragraphs | and 2 shall be
+interpreted in a restrictive way, taking into account for the particular
+case the public interest served by disclosure. In every particular case,
+the public interest served by disclosure shall be weighed against the
+interest served by the refusal. Member States may not, by virtue of
+paragraph 2(a), (d), (f), (g), and (h) provide for a request to be refused
+where the request relates to information on emissions into the
+environment.”
+
+12. Relevantly, the mandatory requirement to allow access where the request relates to
+information on emissions into the environment does not apply to the “internal
+communications” of a public authority.
+
+13. The Environmental Information Directive has been transposed into domestic law by the
+European Communities (Access to Information on the Environment) Regulations 2007
+(S.I. No. 133/2007) (28 March 2007).
+
+4
+
+14. Article 9 of the domestic regulations sets out the discretionary reasons for which a request
+for access to environmental information may be refused. The “internal communications”
+exception is transposed by article 9(2)(d) of the domestic regulations.
+
+15. Article 8 of the domestic regulations provides certain mandatory reasons why a request
+for access to information on the environment shall be refused. The “proceedings”
+exception is transposed by article 8(a)(iv).
+
+16. Article 8(b) of the domestic regulations provides that a public authority shall not make
+available environmental information “to the extent that it would involve the disclosure of
+discussions at one or more meetings of the Government”.
+
+17. Article 10 of the domestic regulations contains certain incidental provisions relating to
+the refusal of a request for environmental information as follows:
+
+“10.(1) Notwithstanding articles 8 and 9 (1)(c), a request for
+environmental information shall not be refused where the
+request relates to information on emissions into the
+environment.
+
+(2) The reference in sub-article (1) to information on emissions
+into the environment does not include a reference to any
+discussions on the matter of such emissions at any meeting of
+the Government.
+
+(3) The public authority shall consider each request on an
+individual basis and weigh the public interest served by
+disclosure against the interest served by refusal.
+
+(4) The grounds for refusal of a request for environmental
+information shall be interpreted on a restrictive basis having
+regard to the public interest served by disclosure.
+
+(5) Nothing in article 8 or 9 shall authorise a public authority not
+to make available environmental information which, although
+held with information to which article 8 or 9 relates, may be
+separated from such information.”
+
+18. The High Court in Right to Know clg v. An Taoiseach [2018] IEHC 372; [2019] 3 LR. 22
+has given a purposive interpretation to the domestic regulations. The exception from
+disclosure allowed in respect of discussions at meetings of the Government (under
+article 10(2)) must now be read as implicitly subject to the requirements of article 10(3),
+(4) and (5) of the domestic regulations. The High Court held that the constitutional
+protection afforded to cabinet confidentiality, as reflected under article 8(b) of the
+
+5
+domestic regulations, cannot be “solely dispositive of’ a request for access to
+environmental information. Rather, before the refusal of access to records of a meeting
+of the Government can be justified, the requisite weighing exercise must be embarked
+upon, i.e. the public interest served by disclosure must be weighed against the interest
+served by the refusal (as required under Article 4 of the Environmental Information
+Directive).
+
+19, Put otherwise, notwithstanding the apparently mandatory terms of article 8(b) of the
+domestic regulations, that provision is to be understood as entailing an obligation that
+each request be considered on an individual basis; that the public interest served by
+disclosure be weighed against the interest served by refusal; and that the possibility of
+providing partial information be considered. This purposive interpretation of the
+domestic regulations is intended to ensure that same align with the requirements of the
+Environmental Information Directive.
+
+20. The respondent to the main proceedings, An Taoiseach, relies upon the status of meetings
+of the Government of Ireland under domestic constitutional law in support of his
+argument that records of discussions of those meetings may be considered to be internal
+communications within the meaning of Article 4(1)(e) of the Environmental Information
+Directive. This status is addressed in Article 28 of the Constitution of Ireland. In
+particular, Article 28.4 states as follows:
+
+“ye The Government shall be responsible to Dail Eireann.
+2° The Government shall meet and act as a collective authority, and shall
+be collectively responsible for the Departments of State administered
+by the members of the Government.
+3° The confidentiality of discussions at meetings of the Government
+shall be respected in all circumstances save only where the High
+Court determines that disclosure should be made in respect of a
+particular matter —
+i in the interests of the administration of justice by a Court, or
+il by virtue of an overriding public interest, pursuant to an
+application in that behalf by a tribunal appointed by the
+Government or a Minister of the Government on the authority
+of the Houses of the Oireachtas to inquire into a matter stated
+by them to be of public importance.”
+
+6
+
+5. NECESSITY FOR A REFERENCE TO COURT OF JUSTICE
+
+21. The principal question for determination in the main proceedings concerns the
+circumstances, if any, in which the constitutional imperative that discussions at meetings
+of the Government of Ireland remain confidential must yield to the requirements of
+Directive 2003/4/EC (“the Environmental Information Directive”). The answer to this
+question turns, in large part, on how discussions at meetings of the Government of Ireland
+are to be characterised for the purposes of the Directive. The parties are in disagreement
+as to whether the correct characterisation is as “infernal communications” of a public
+authority, or, alternatively, as the “proceedings” of a public authority.
+
+22. The referring court is not satisfied that the interpretation of the two terms under the
+Environmental Information Directive is obvious. In particular, the dividing line between
+“internal communications” and confidential “proceedings” is unclear. In the absence of
+guidance from the Court of Justice on the interpretation of the Environmental Information
+Directive, the referring court is unable to determine conclusively which category records
+of meetings of the Government of Ireland fall into.
+
+23. There are strong grounds for saying that the meetings of the Government of Ireland
+represent precisely the type of confidential deliberative proceedings envisaged by
+Article 4(2)(a) of the Environmental Information Directive. The Government is
+mandated under Article 28.4.2° of the Constitution of Ireland to “meet and act as a
+collective authority”. The purpose of these meetings, as identified by the Supreme Court
+of Ireland in Attorney General v. Hamilton [1993] 2 1.R. 250, is to allow for full, free and
+frank discussion between members of the Government prior to the making of decisions.
+
+24. The referring court is satisfied that there is a strong argument that meetings of the
+Government of Ireland come closer to the type of deliberative process captured by the
+term “proceedings”. Given the high constitutional status which meetings of the
+Government have, they do not sit comfortably within the “internal communications”
+pigeonhole. The referring court cannot, however, reach a final decision on this issue
+without the benefit of a preliminary ruling from the Court of Justice.
+
+25. Separately, the referring court requires the guidance of the Court of Justice on whether a
+plea of res judicata, in the form of issue estoppel, may be relied upon to prevent a possible
+misinterpretation of the Environmental Information Directive by a national court to go
+uncorrected. In particular, the referring court wishes to know whether the principle of
+
+7
+res judicata extends beyond the operative part of the earlier judgment, and includes, in
+addition, findings of fact and law featuring in the earlier judgment. Here, the judgment
+of the High Court of Ireland in the first judicial review proceedings did not entail a final
+judicial determination in respect of the Applicant’s entitlement to access the relevant
+records under the domestic regulations implementing the Environmental Information
+Directive. Rather, the question of access to the relevant records had been remitted to the
+original decision-maker for reconsideration. The earlier judgment did, however,
+determine an identified issue of law against the Applicant, namely that, for the purposes
+of the Environmental Information Directive, meetings of the Government are properly
+characterised as entailing “internal communications” of a public authority. The
+significance of this determination being that the requirement for mandatory disclosure of
+records relating to information on emissions into the environment did not apply.
+
+26. The strict application of the principle of issue estoppel to the circumstances of this case
+has the potential to result in an infringement of EU law remaining unremedied. The
+gravamen of the Applicant’s complaint is that the judgment in the first set of judicial
+review proceedings mischaracterises meetings of the Government for the purposes of the
+Environmental Information Directive, with the consequence that the requirement for the
+mandatory disclosure of records relating to information on emissions into the
+environment is, incorrectly, disapplied. If this complaint is well founded, but the
+Applicant is not allowed to pursue it in the present proceedings, then a misinterpretation
+of the Environmental Information Directive by a national court will go uncorrected.
+
+27. Given that one of the principal objectives underlying the case law of the Court of Justice
+in respect of res judicata is to ensure the “stability of legal relations”, the justification
+for the application of the doctrine of res judicata is considerably weakened in the
+circumstances of the present case. The question of access to the relevant records had not
+been finally settled by the judgment in the first judicial review proceedings. Rather, the
+matter had been remitted to the decision-maker for reconsideration (albeit on the basis
+that the meetings of the Government are properly characterised as entailing “infernal
+communications” of a public authority) and had resulted in a fresh decision on 16 August
+2018. It is this decision that is challenged in the main proceedings.
+
+8
+
+6. QUESTIONS REFERRED
+
+(1). Are records of formal meetings of the executive branch of government of a Member
+State, at which members of the government are required to meet and act as a collective
+authority, to be characterised, for the purpose of a request for access to environmental
+information contained therein, as “infernal communications” or as “proceedings” of a
+public authority within the meaning of those terms as set out, respectively, in
+Article 4(1)(e) and Article 4(2), first paragraph, indent (a), respectively, of Directive
+2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public
+access to environmental information and repealing Council Directive 90/3 13/EEC?
+
+(2). Does the principle of res judicata (as discussed in Kébler, Case C-224/01,
+ECLI:EU:C:2003:513 and subsequent case law) extend beyond the operative or
+dispositive part of the earlier judgment, and include, in addition, findings of fact and law
+featuring in the earlier judgment? Put otherwise, is the principle of res judicata confined
+to cause of action estoppel, or does it extend to issue estoppel?
+
+(3). In ongoing proceedings between parties regarding alleged non-compliance with
+Directive 2003/4/EC concerning a specific request for environmental information, where
+an applicant/requester has succeeded in having a decision quashed with some grounds of
+challenge based on EU law upheld and others rejected, does EU law, and in particular,
+the principle of effectiveness preclude a national rule of res judicata based on issue
+estoppel that requires a national court, in fresh proceedings concerning a further decision
+on the same request, to exclude such an applicant/requester from challenging the said
+further decision on EU-law based grounds that were previously rejected but not, in the
+circumstances, appealed?
+
+(4). Is the answer to Question (3) above affected by the facts that: (1) no reference was made
+to the Court of Justice; and (ii) relevant case law of the Court of Justice had not been
+brought to the national court’s attention by either of the parties?
+
+APPENDIX
+
+Judgment of the High Court delivered on 23 April 2021, [2021] IEHC 233
+
+Prppiovieed
+ANS A GM
+
+
+
+APPROVED [2021] IEHC 233
+THE HIGH COURT
+JUDICIAL REVIEW
+2018 No. 942 J.R.
+IN THE MATTER OF THE EUROPEAN COMMUNITIES (ACCESS TO INFORMATION
+ON THE ENVIRONMENT) REGULATIONS 2007 — 2018
+AND IN THE MATTER OF DIRECTIVE 2003/4/EC ON PUBLIC ACCESS TO
+ENVIRONMENTAL INFORMATION
+BETWEEN
+RIGHT TO KNOW CLG
+APPLICANT
+AND
+AN TAOISEACH
+RESPONDENT
+JUDGMENT of Mr. Justice Garrett Simons delivered on 23 April 2021
+INTRODUCTION
+1. | These judicial review proceedings give rise to significant questions of law in respect of
+the limits of cabinet confidentiality. The principal question for determination concerns
+the circumstances, if any, in which the constitutional imperative that discussions at
+meetings of the Government remain confidential must yield to the requirements of a
+European Directive which confers a right of access to information on the environment.
+The answer to this question turns, in large part, on how discussions at meetings of the
+Government are to be characterised for the purposes of the European Directive. Where
+NO REDACTION REQUIRED
+
+2
+convenient, I will refer to this principal question as the “characterisation issue”. The
+parties are in disagreement as to whether the correct characterisation is as “internal
+communications” of a public authority, or, alternatively, as the “proceedings” of a public
+authority.
+
+2. The route to the resolution of this principal question is, potentially at least, blocked by a
+number of procedural obstacles. Specifically, the following two objections have been
+raised on behalf of the respondent, An Taoiseach. First, it is said that the applicant should
+have exhausted its statutory right of appeal to the Commissioner for Environmental
+Information before having recourse to the High Court. Secondly, it is said that the
+question of the correct characterisation of meetings of the Government, for the purposes
+of the relevant European Directive, has already been conclusively determined by the
+High Court in two judgments, one of which involved the applicant itself. The issue is
+said, therefore, to be the subject of persuasive precedent. It is also said that the applicant
+is precluded by the doctrine of res judicata from reagitating the issue in these
+proceedings.
+
+3. The applicant contends that these procedural objections are not well founded, and has
+invited this court to make a reference to the Court of Justice of the European Union
+(“Court of Justice”) for a preliminary ruling on the interpretation of the relevant
+provisions of the European Directive.
+
+STRUCTURE OF THIS JUDGMENT
+
+4. It may be helpful to the reader to flag now that the discussion of the objection that the
+applicant should have exhausted its statutory right of appeal is to be found towards the
+end of this judgment (at paragraph 65 e/ seq.). Whereas it had been necessary for me to
+decide this objection as a threshold issue, it should, hopefully, assist the reader in a better
+
+3
+understanding of the issue to leave the discussion of same over until after the detail of
+the case has been explained.
+
+PROCEDURAL HISTORY
+
+5. In circumstances where this judgment is confined to specific aspects of the applicant’s
+judicial review proceedings, it is not necessary to set out the procedural history in full.
+The following summary is sufficient for the purposes of this judgment.
+
+6. These proceedings have their genesis in a request for access to information on the
+environment made on behalf of the applicant on 8 March 2016. The information which
+was requested is as follows: all documents which show cabinet discussions on Ireland’s
+greenhouse gas emissions from 2002 to 2016. This request had been refused, by an initial
+decision dated 5 May 2016; and, following an internal review, the refusal had been
+affirmed by a subsequent decision dated 10 June 2016.
+
+7. The applicant instituted judicial review proceedings seeking to challenge the decision of
+10 June 2016 (‘‘the first judicial review proceedings”). The applicant had been partially
+successful in the first judicial review proceedings. In a reserved judgment dated | June
+2018, the High Court (Faherty J.) set aside the decision of 10 June 2016 and remitted the
+request for access to the respondent for reconsideration. A fresh decision was duly made
+on 16 August 2018 (“the decision on remitta’). The decision on remittal was to the
+effect that access would be granted in respect of one record; partial access would be
+granted in respect of seventeen records; and access would be withheld in respect of the
+remaining thirteen records.
+
+8.  Relevantly, part of the stated reasons for the decision on remittal included reference to
+cabinet discussions comprising the “internal communications” of a public authority, and
+more generally, to the principle of cabinet confidentiality under domestic constitutional
+
+4
+law. The decision on remittal cites, seemingly in support of this position, passages from
+the judgment of the Supreme Court in Attorney General v. Hamilton [1993] 2 LR. 250.
+
+9. The applicant seeks to challenge the decision on remittal in these judicial review
+proceedings (“the second judicial review proceedings”). The proceedings came on for
+hearing before me over three days commencing on 17 November 2020. During the
+course of the hearing, it was agreed that the issues arising in respect of cabinet
+confidentiality (including the procedural objections raised on behalf of the respondent)
+should be dealt with first, with the court delivering an initial judgment on these issues
+and on the question of a reference for a preliminary ruling to the Court of Justice. The
+determination of the alternative grounds of challenge raised by the applicant, which
+centre largely on whether the balancing exercise required under the European Directive
+and the implementing domestic regulations had been properly carried out, is to be
+deferred pending the resolution of this first set of issues.
+
+10. The question of whether the applicant is precluded, by the doctrine of res judicata, from
+reagitating the “characterisation” issue came into sharp focus during the hearing. At the
+conclusion of the hearing on 19 November 2020, the parties were given leave to file
+supplemental written legal submissions on res judicata. Four sets of submissions were
+ultimately exchanged between the parties, on 6 January; 22 January; 18 February and
+23 February 2021, respectively. The submissions also addressed the very recent
+Judgment of the Court of Justice in Case C-619/19, Land Baden- Wirttemberg, which had
+been delivered subsequent to the conclusion of the hearing before me.
+
+11. The partics confirmed, at a directions hearing on 29 January 2021, that they did not
+require the oral hearing to be reopened but were, instead, content to rest on their written
+legal submissions.
+
+5
+
+RELEVANT LEGISLATION
+
+12. It may be of assistance to the reader in understanding the procedural arguments relied
+upon by the parties to pause here, and to provide a brief overview of the relevant
+legislation. The request for access to the relevant records had been made pursuant to the
+EC (Access to Information on the Environment) Regulations 2007 to 2018 (“the
+domestic implementing regulations”). These regulations transpose the provisions of the
+Directive on Public Access to Environmental Information (Directive 2003/4/EC) (“the
+Environmental Information Directive’’).
+
+13. The Environmental Information Directive attaches a special status to information relating
+to emissions into the environment. The grounds upon which access to such information
+can be refused are narrower than those in respect of other types of information on the
+environment. This result is achieved by providing that certain exceptions to disclosure,
+which are otherwise available under the Environmental Information Directive, do not
+apply in the case of information relating to emissions into the environment. The
+applicant, in its written legal submissions, has used the shorthand “the emissions
+override” to describe these provisions. It is submitted, in effect, that the Directive
+recognises that there is an overriding public interest in the disclosure of information
+relating to emissions into the environment which precludes reliance on certain
+exceptions.
+
+14. One of the principal areas of disagreement between the parties is as to whether records
+of meetings of the Government come within a category which is subject to this so-called
+emissions override. The applicant’s case is that the records fall within the following class
+of exception under Article 4(2)(a) of the Environmental Information Directive.
+
+“Member States may provide for a request for environmental
+information to be refused if disclosure of the information would
+adversely affect:
+
+6
+
+(a) the confidentiality of the proceedings of public authorities,
+where such confidentiality is provided for by law;
+
+[.--]
+The grounds for refusal mentioned in paragraphs | and 2 shall be
+interpreted in a restrictive way, taking into account for the particular
+case the public interest served by disclosure. In every particular case,
+the public interest served by disclosure shall be weighed against the
+interest served by the refusal. Member States may not, by virtue of
+paragraph 2(a), (d), (f), (g) and (h), provide for a request to be refused
+where the request relates to information on emissions into the
+environment.”
+
+15. As appears, the exception in respect of the confidential “proceedings” of a public
+authority is not available where the request relates to information on emissions into the
+environment. Put otherwise, this class of exception is subject to what the applicant
+describes as the “emissions override”. Were the applicant to be correct in its
+characterisation of meetings of the Government as the confidential “proceedings” of a
+public authority, then disclosure would be mandatory insofar as the information relates
+to emissions into the environment, and the Government could not rely on the principle
+of cabinet confidentiality to refuse access to such information.
+
+16. The respondent disputes this characterisation. On the respondent’s case, records of
+meetings of the Government fall within Article 4(1)(e) of the Environmental Information
+Directive as follows.
+
+“Member States may provide for a request for environmental
+
+information to be refused if:
+
+[...]
+
+(e) the request concerns internal communications, taking into
+account the public interest served by disclosure.”
+
+17. This class of exception is not subject to what the applicant describes as the “emissions
+override”.
+
+7
+
+18. There has been some limited discussion of these two classes of exception by the Court
+of Justice. I will return to consider this case law presently (at paragraph 58 e7 seq. below).
+For the purposes of the procedural objections raised by the respondent, however, it is the
+domestic case law on cabinet confidentiality which is of more immediate relevance. |
+discuss this case law under the next heading.
+
+19. Before turning to that task, it is necessary first to explain how cabinet confidentiality is
+treated under the domestic implementing regulations. Article 8(b) of the EC (Access to
+Information on the Environment) Regulations 2007 provides that a public authority “shall
+not” make available environmental information where disclosure of the information, to
+the extent that it would involve the disclosure of discussions at one or more meetings of
+the Government, is prohibited by Article 28 of the Constitution of Ireland.
+
+20. As discussed under the next heading, the High Court has since confirmed that—
+notwithstanding the apparently mandatory terms of article 8(b)—there is an obligation,
+even in the case of records of discussions at meetings of the Government, to weigh the
+public interest served by disclosure against the interest served by refusal before a decision
+to refuse access can be made.
+
+CASE LAW ON CABINET CONFIDENTIALITY
+
+21. The characterisation of discussions at meetings of the Government, for the purposes of
+the Environmental Information Directive, has been addressed in detail in An Taoiseach v.
+Commissioner for Environmental Information [2010] IEHC 241; [2013] 2 1.R. 510
+(“Cabinet Confidentiality No. 1’). (For an insightful analysis of this judgment, see
+A. Ryall, Access to Environmental Information in Ireland: Implementation Challenges
+Journal of Environmental Law, Volume 23, Issue 1, March 2011, pages 45-71).
+
+8
+22. The High Court (O Néill J.) held that meetings of the Government are properly
+characterised as entailing “internal communications” of a public authority. The
+alternative analysis, namely that the meetings represent the confidential “proceedings”
+of a public authority, was rejected in robust terms. See paragraphs 83 and 84 of the
+reported judgment as follows.
+“Meetings of the Government are but one aspect of its constitutional
+role and its many and varied functions as described briefly in the
+Constitution and set out in great detail in a vast array of legislation.
+To describe meetings of the Government as ‘the proceedings’ of the
+Government as the public authority in question seems to me
+somewhat artificial and strained. Applying the natural and ordinary
+meaning of these terms as used in art. 4(2)(a) in the Directive, would
+in my opinion result in a conclusion that art. 4(2)(a) did not, and was
+not intended to, apply to meetings of the Government such as and in
+so far as these are provided for in our Constitution and laws.
+On the other hand, meetings of the Government are the occasions
+when, as provided for in Article 28.4.2° of the Constitution, the
+members of the Government come together to act as a collective
+authority, collectively responsible for all departments of State.
+Meetings of the Government are the constitutionally mandated means
+or system of communication between its members for the purpose of
+discharging their collective responsibility. These meetings and their
+records are required by the Constitution to be private and confidential
+unless otherwise directed by the High Court under Article 28.3 of the
+Constitution. Whereas many aspects of the functions of the
+Government are essentially public and external in nature, meetings of
+the Government are quintessentially private and internal to the
+overall functions of the Government. Thus, in my judgment, this
+constitutionally mandated form of communication between members
+of the Government can only be regarded as the internal
+communications of a public authority. Any other conclusion would
+lead to absurd results, as pointed out by counsel for the appellant, in
+that communications between members of the Government in any
+other context apart from formal meetings of the Government would
+have to be regarded as internal communications and protected from
+disclosure but the same communications at a Government meeting
+would, as ‘the proceedings of a public authority’, altract disclosure.
+Manifestly such a state of affairs, apart from its obvious absurdity,
+would seriously undermine the discharge of collective responsibility
+by the Government, as required by Article 28.4.2° of the Constitution.
+In this regard, I should further add that J am quite satisfied that the
+distinction sought to be drawn between communications between the
+members of a public authority and between officials of that authority
+or between officials of the authority and the members of the authority
+
+9
+is devoid of any rational merit and has no discernible basis either in
+the express provisions or, by way of necessary implication, in the
+Directive or the Regulations of 2007.”
+
+23. This approach has since been endorsed in the more recent judgment of the High Court
+(Faherty J.) in Right to Know clg v. An Taoiseach [2018} IEHC 372; [2019] 3 I.R. 22
+(“Cabinet Confidentiality No. 2”). This judgment was delivered in respect of the first
+judicial review proceedings taken by the applicant.
+
+24. Faherty J. stated, at paragraph 65 of her judgment, that whether one approached the issue
+from a teleological approach or otherwise, the rationale of O Néill J. on this issue could
+not be faulted as either irrational or unreasonable. Faherty J. did, however, differ on the
+related question of whether the domestic implementing regulations require that the public
+interest in disclosure be taken into account in determining whether records of meetings
+of the Government are to be disclosed. The court held that the constitutional protection
+afforded to cabinet confidentiality, as reflected under article 8(b) of the domestic
+implementing regulations, cannot be “solely dispositive of a request for access to
+environmental information. Rather, before the refusal of access to records of a meeting
+of the Government can be justified, the requisite weighing exercise must be embarked
+upon, i.e. the public interest served by disclosure must be weighed against the interest
+served by the refusal (as required under Article 4 of the Environmental Information
+Directive). The court emphasised that this must not be a formulaic exercise. Any
+decision on a request for environmental information must reflect the fact that the process
+of engagement with the request (whatever the ultimate outcome) was conducted in
+accordance with the Jetter and spirit of the Environmental! Information Directive. (See
+paragraph 84 of the reported judgment).
+
+25. This result was achieved in Cabinet Confidentiality No. 2 by the court applying a
+purposive interpretation to the domestic implementing regulations. The exception from
+
+10
+disclosure allowed in respect of discussions at meetings of the Government must now be
+read as implicitly subject to the requirements of article 10(3), (4) and (5) of the
+regulations. Put otherwise, notwithstanding the apparently mandatory terms of
+article 8(b), that provision is to be understood as entailing an obligation that each request
+be considered on an individual basis; that the public interest served by disclosure be
+weighed against the interest served by refusal; and that the possibility of providing partial
+information be considered. This interpretation of the domestic implementing regulations
+is intended to ensure that same align with the requirements of the Environmental
+Information Directive.
+
+26. The decision in Cabinet Confidentiality (No. 2) is a very significant judgment. It
+confirms that the constitutional imperative that discussions at meetings of the
+Government are confidential must yield to the requirements of the Environmental
+Information Directive. Rather than baldly assert cabinet confidentiality, the Government
+must now justify any refusal to disclose information on the environment by reference to
+the balancing test prescribed under the Directive.
+
+IMPLICATIONS OF THE CASE LAW FOR THE PRESENT PROCEEDINGS
+
+27. The respondent contends that the judgments in Cabinet Confidentiality No. I and No. 2
+are dispositive of the question of how records of meetings of the Government are to be
+characterised for the purposes of the Environmental Information Directive. It is said that
+the records are to be regarded as comprising the “internal communications” of a public
+authority, and, as such, are not subject to mandatory disclosure even if they contain
+information relating to emissions into the environment. Instead, disclosure is subject to
+the balancing test prescribed under the Directive. The respondent further contends that
+
+1]
+it is not open to the applicant to seek to reagitate this “characterisation” issue in the
+present proceedings.
+
+28. This contention is advanced by reference to two related arguments as follows. The first
+argument invokes the principle of precedent as applicable to courts of co-ordinate
+jurisdiction, i.e. the principle that a judge of first instance ought usually to follow the
+decision of another judge of the same court unless there are “substantial reasons” for
+believing that the initial judgment was wrong.
+
+29. The second argument invokes the principle of res judicata. Jt is said that not only is the
+question of the correct characterisation of meetings of the Government well settled, it has
+actually been decided in proceedings, i.e. the applicant’s first judicial review
+proceedings, which involved the self-same parties as in the present case. The question
+having been decided against the applicant itself in Cabinet Confidentiality (No. 2), it is
+said that the applicant is estopped from relitigating the issue in these proceedings. This
+second argument came into sharper focus at the hearing in November 2020, and the
+parties exchanged four sets of very helpful written legal submissions thereafter in January
+and February 2021.
+
+30. The two lines of argument relied upon by the respondent share some similarities. Both
+take as their starting point the existence of an earlier judgment which has determined a
+question of law which the applicant seeks to agitate in the present proceedings. It should
+be explained, however, that the implications of the two arguments are very different. The
+first argument, i.e. the argument based on precedent, acknowledges that this court would
+be entitled to depart from the earlier case law on cabinet confidentiality if satisfied that
+there are “substantial reasons” for believing that the initial judgments were incorrectly
+decided. Conversely, the logic of the second argument, i.e. the argument based on res
+judicata, is that the finding in Cabinet Confidentiality (No. 2) is binding on the applicant
+
+12
+in personam irrespective of whether the finding is right or wrong. The values which the
+doctrine of res judicata seeks to protect are subtly different from those of the doctrine of
+precedent. In particular, the doctrine of res judicata is directed to the conduct of the
+parties and the need to avoid questions, which have already been determined conclusively
+in earlier proceedings, from being relitigated between the same parties or their privies.
+If a party is aggrieved by a judicial determination, then the remedy is to appeal that
+determination rather than attempt to reagitate the same question in a second set of
+proceedings. If a party allows an earlier judicial determination against them to go
+unappealed, then they will ordinarily be bound in personam by that determination on that
+issue, even though it may be incorrect in law. Put shortly, the principle of res judicata
+places a premium on the finality of litigation.
+
+31. I turn next to consider the two arguments in more detail. I propose to take the arguments
+in reverse order, by commencing with the argument based on res judicata.
+
+(1). RES JUDICATA / ISSUE ESTOPPEL
+
+32. The term res judicata is often used as an umbrella term, embracing a number of related
+principles all of which seek to advance the public interest in the finality of litigation. The
+strictest form of res judicata is cause of action estoppel, whereby a party is precluded
+from pursuing a particular cause of action in consequence of a final judgment in earlier
+proceedings. The next form of res judicata is issue estoppel, whereby a party will,
+generally, be precluded from relitigating an issue of fact or law which has previously
+been determined against them in earlier proceedings. The determination of that issue
+must have been necessary to the outcome of the earlier proceedings, i.e. the finding on
+the issue must have been fundamental rather than merely collateral or incidental.
+
+13
+
+33. Put otherwise, notwithstanding that the judgment in earlier proceedings may not have
+entailed a final determination on the legal right asserted in subsequent proceedings, it
+may nevertheless have determined an issue which is common to both sets of proceedings.
+Provided that the determination of this issue had been an essential part of the rationale
+for the earlier judgment, then the finding on the issue will, generally, be binding in the
+subsequent proceedings.
+
+34. There is a third species of res judicata, whereby a party will, generally, be precluded
+from litigating an issue in a second set of proceedings if that party should have—but
+failed—to raise the issue in an earlier set of proceedings. This principle is described as
+the rule in Henderson v. Henderson, but recent case law confirms that it too is grounded
+in the principle of res judicata (Arklow Holidays Lidv. An Bord Pleandla
+[2011] IESC 29; [2012] 2 I.R. 99 (at paragraphs 46 and 57)).
+
+35. Jt should be explained that the application of both issue estoppel and the rule in
+Henderson v. Henderson are subject to exceptions. These species of res judicata
+represent aspects of the court’s inherent jurisdiction to prevent an abuse of process
+(McCauley v. McDermot [1997] 2 1.L.R.M. 486 and Arklow Holidays Ltd vy. An Bord
+Pleandla (cited above)). The court has a discretion, in special circumstances, to allow a
+party to pursue an issue in subsequent proceedings notwithstanding that the issue had
+been decided against the party in earlier proceedings or that the party had failed to raise
+the issue in those earlier proceedings. In exercising this discretion, the court must seek
+to balance (i) the constitutional right of access to the courts against (ii) the public interest
+and the common good in ensuring that there is finality to litigation and that an individual
+is not subject to repeated or duplicative litigation in respect of issues which have
+previously been determined.
+
+14
+
+36. The form of res judicata asserted against the applicant in the present proceedings is issue
+estoppel. The respondent, very properly, does not allege cause of action estoppel. There
+has been no final judicial determination in respect of the applicant’s entitlement to access
+the relevant records under the domestic regulations implementing the Environmental
+Information Directive. The judgment in Cabinet Confidentiality (No. 2) did not represent
+a final judicial determination on that controversy. Rather, the question of access to the
+relevant records had been remitted, pursuant to Order 84 of the Rules of the Superior
+Courts, to the original decision-maker for reconsideration.
+
+37. The contention of the respondent is narrower. It is said that the judgment in Cabinet
+Confidentiality (No. 2) has determined an identified issue of law against the applicant.
+More specifically, the judgment held that, for the purposes of the Environmental
+Information Directive, meetings of the Government are properly characterised as
+entailing “internal communications” of a public authority. The significance of this
+determination being, of course, that the requirement for mandatory disclosure of records
+relating to information on emissions into the environment did not apply.
+
+38. The determination of this issue of law fulfils the traditional criteria for an issue estoppel
+as per McCauley v. McDermot [1997] 2 I.L.R.M. 486. First, the legal issue is precisely
+the same as that which the applicant seeks to agitate in the present proceedings.
+Secondly, the determination had been final: no appeal was taken against the High Court
+judgment tn Cabinet Confidentiality (No. 2). Thirdly, the legal issue arises in
+proceedings between the same parties as before. (As it happens, it even concerns access
+to the same records).
+
+39. The requirement that the determination of the issue be fundamental, rather than collateral,
+to the outcome of the earlier proceedings is also met. The question of the correct
+characterisation of records of meetings of the Government had been one of the principal
+
+15
+issues in dispute in Cabinet Confidentiality (No. 2), and the determination on this issue
+had been fundamental to the outcome of the proceedings. Had the High Court reached a
+different finding on the issue, and ruled that the records related to the confidential
+“proceedings” of a public authority within the meaning of Article 4(2)(a) of the
+Environmental Information Directive, then disclosure of the records would have been
+mandatory if and insofar as the request related to information on emissions into the
+environment. Had the High Court reached this finding, then the only basis on which
+disclosure could have been resisted would be for the Government to advance its inchoate
+argument that discussions are not subject to the so-called “emissions override” because
+the only type of information which can constitute “information on emissions into the
+environment” is factual information relating to such emissions.
+
+40. In the event, the High Court actually determined the issue against the applicant, holding
+that the records represented the “internal communications” of a public authority, and, as
+such, would not be subject to mandatory disclosure even if they constituted “information
+on emissions into the environment”. This finding dictated the outcome of the
+proceedings in Cabinet Confidentiality (No. 2), and, in particular, determined the basis
+on which the access request was to be remitted to the decision-maker for reconsideration.
+The decision-maker was being directed to reconsider the request by weighing the public
+interest served by disclosure against the interest served by the refusal (as required under
+Article 4 of the Environmental Information Directive).
+
+Al. In circumstances where the issue has already been determined against it in Cabinet
+Confidentiality (No. 2), the applicant would not normally be entitled to reagitate the
+question of the proper characterisation of records of meetings of the Government. The
+principle that a party is estopped from pursuing an issue previously determined against it
+is not, however, absolute. The court retains a discretion to allow an issue to be reagitated
+
+16
+where it is in the interests of justice to do so. In exercising this discretion, the court must
+seek to strike an appropriate balance between the competing rights of the parties, and,
+more generally, between the constitutional right of access to the courts and the public
+interest in the finality of litigation. The court should consider whether the allowing of an
+exception to the general rule, i.e. that a party should be bound by the earlier determination
+of an issue, would undermine the values which the principle of issue estoppel seeks to
+protect. Relevantly, these include the prejudice caused to the opposing party in being
+subject to a second set of proceedings raising the same issue; and the wider implications
+for the administration of justice and judicial economy of duplicative litigation.
+
+42. For the reasons which follow, I am satisfied that the correct balance is achieved by
+allowing the applicant to advance its argument on the “characterisation” issue, subject to
+the caveat that it may be necessary to address the matter by way of an appropriate costs
+order at the conclusion of the proceedings.
+
+43. The strict application of the principle of issue estoppel to the circumstances of this case
+has the potential to result in an infringement of EU law remaining unremedied. The
+gravamen of the applicant’s complaint is that the judgment in Cabinet Confidentiality
+(No. 2) mischaracterises meetings of the Government for the purposes of the
+Environmental Information Directive, with the consequence that the requirement for the
+mandatory disclosure of records relating to information on emissions into the
+environment is, incorrectly, disapplied. If this complaint is well founded, but the
+applicant is not allowed to pursue it in the present proceedings, then a misinterpretation
+of the Environmental Information Directive by a national court will go uncorrected.
+
+44. Ofcourse, such an outcome is not necessarily incompatible with EU law. The case law
+of the Court of Justice has consistently emphasised the importance of ensuring that
+Judicial decisions, which have become definitive after all rights of appeal have been
+
+17
+exhausted or after the expiry of the time-limits provided for in that connection, can no
+longer be called into question. EU law does not necessarily require a national court to
+disapply domestic rules of procedure conferring finality on a decision, even if to do so
+would enable it to remedy an infringement of EU law. This is subject to the principles
+of equivalence and effectiveness. The rationale for this approach is to ensure both
+stability of the law and legal relations and the sound administration of justice. (See,
+generally, Case C-234/04, Kapferer, EU:C:2006:178).
+
+45. The distinguishing feature of the present case is that, even following the delivery of the
+judgment in Cabinet Confidentiality (No. 2), a significant dispute remained to be
+resolved between the parties. There continued to be a live controversy as to the
+applicant’s entitlement, if any, to access the relevant records. The applicant had
+advanced a number of alternative arguments for saying that the respondent’s first
+decision to refuse access had been incorrect as a matter of law. These arguments had, in
+most part, been accepted by the High Court in Cabinet Confidentiality (No. 2). The
+matter had, accordingly, been remitted to the respondent in accordance with the
+provisions of Order 84 of the Rules of the Superior Courts. It is the decision on remittal
+that is impugned in the present proceedings.
+
+46. Given that one of the principal objectives underlying the case law of the Court of Justice
+is to ensure the “stability of legal relations”, the justification for the application of the
+doctrine of res judicata is considerably weakened in the circumstances of the present
+case. The question of access to the relevant records had not been settled by the judgment
+in Cabinet Confidentiality (No. 2). The legal position remained uncertain and unstable.
+The present case may be contrasted with one where say, for example, the validity of an
+administrative decision had been upheld in earlier judicial review proceedings, and the
+parties were entitled to assume that the issue had been resolved and to act on that basis.
+
+18
+
+47. More generally, it may be doubtful whether the form of res judicata discussed in the case
+law of the Court of Justice extends to include issue estoppel (as opposed to cause of
+action estoppel). I will return to this point at paragraph 52 below.
+
+48. The domestic case law on issue estoppel indicates that one of the factors to be considered
+in deciding whether the preclusion arises is the conduct of the party said to be estopped.
+In the present case, the conduct of the applicant cannot reasonably be said to involve an
+abuse of process. The applicant had found itself in a quandary following the delivery of
+the judgment in Cabinet Confidentiality (No. 2). Whereas it had, obviously, been
+unsuccessful on the “characterisation” issue, it did succeed on its alternative arguments.
+The decision impugned in the proceedings had been set aside and the matter remitted to
+the respondent for reconsideration. Against this background, there is some force in the
+submission made by the applicant to the effect that it would have been in an invidious
+position had it sought to appeal the judgment in Cabinet Confidentiality (No. 2). The
+applicant suggests that any such appeal would likely have been met with a response that
+it was premature to appeal pending the determination on remittal. It is further submitted
+that as issue estoppel is meant to discourage pointless repetitive Jitigation, it would be
+surprising if it were applied in a way that effectively encouraged defensive litigation by
+a party in anticipation of future proceedings that might never be needed. (See §2.11 of
+applicant’s written legal submissions of 22 January 2021).
+
+49. One of the justifications for the strict application of issue estoppel is that it would be an
+abuse of process for a party—who had a clear-cut route of appeal available, but failed to
+exercise their right of appeal—to reagitate the issue in a second set of proceedings before
+the court of first instance. That abuse of process justification does not apply to the
+applicant for the reasons outlined above.
+
+19
+
+50. Separately, some weight should be attached to the fact that, irrespective of whether the
+applicant is estopped from pursuing the “characterisation” issue, there are a number of
+alternative arguments which would have to be resolved in these proceedings in any event.
+The prejudice suffered by the respondent in having, in addition, to defend an argument
+based on the correct characterisation of the records is slight. This is not a case where, for
+example, the application of the principle of issue estoppel would relieve a party from
+having to contest litigation.
+
+51. Having regard to the considerations outlined in all of the preceding paragraphs, | am
+satisfied that it would be disproportionate to preclude the applicant from pursuing the
+“characterisation” issue in these proceedings. The public interest in allowing the
+applicant to ventilate what are undoubtedly significant issues of EU law and domestic
+constitutional law outweighs the countervailing public interest in the finality of litigation.
+In the special circumstances of this case, the values sought to be protected by the principle
+of res judicata can instead be vindicated by the making of an appropriate costs order at
+the conclusion of the proceedings. If, for example, the respondent is able to demonstrate
+that the effect of the “characterisation” issue being agitated in two sets of proceedings
+has resulted in unnecessary duplication of costs, then this can be addressed by an
+appropriate costs order. This measured approach is sufficient to ensure that any prejudice
+suffered by the respondent is mitigated. More generally, the prospect of an adverse costs
+order being made against them in similar cases will serve to deter other litigants from
+pursuing duplicative proceedings.
+
+52. In reaching my decision on issue estoppel, I have proceeded on the assumption that a
+court has discretion, in special circumstances, to rule that a party is not precluded from
+reagitating an issue of law which has previously been decided against it. The existence
+of such a discretion appears to be recognised in the case law cited at paragraph 35 above.
+
+20
+It is also consistent with the following statement from A.A. v. Medical Council
+[2003] IESC 70; [2003] 4 IR. 302 (at page 317 of the reported judgment).
+“Rules or principles so described cannot, in their nature, be applied
+in an automatic or unconsidered fashion. Indeed, it appears to me
+that sympathetic consideration must be given to the position of a
+plaintiff or applicant who on the face of it is exercising his right of
+access to the courts for the determination of his civil rights or
+liabilities.”
+
+53. I note, however, that the respondent has cited the judgments in Moffitt v. Agricultural
+Credit Corporation [2007] TEHC 245 and Mount Kennett Investment Company v.
+O’Meara [2011] 3 I.R. 547 as authority for the proposition that there is no discretion in
+the context of res judicata. If and insofar as it might be suggested that the existence of
+such a discretion only arises in respect of the rule in Henderson v. Henderson, and not in
+respect of issue estoppel, a question would then arise as to whether domestic procedural
+law breaches the principle of effectiveness. As flagged earlier, it may be doubtful
+whether the form of res judicata discussed in the case law of the Court of Justice extends
+to include issue estoppel (as opposed to cause of action estoppel). This is because the
+justification for allowing an infringement of EU law to go uncorrected by reference to
+the principle of legal certainty is far less compelling where there has been no final
+determination of the rights of the parties. Given this doubt, and given that I propose to
+make a reference to the Court of Justice in any event in respect of the Environmental
+Information Directive, I propose to include a question on the applicability of res judicata.
+I will discuss the precise form of this question with counsel.
+
+(2). PRECEDENT AND COURTS OF COORDINATE JURISDICTION
+
+54. The modern statement of the application of the principle of precedent to courts of co-
+ordinate jurisdiction is to be found in the judgment of Clarke J. (then sitting in the High
+Court) in In re Worldport Ireland Lid. [2005] IEHC 189 (at pages 7 and 8).
+
+2]
+
+“[_..] Itis well established that, as a matter of judicial comity, a judge
+of first instance ought usually follow the decision of another judge of
+the same court unless there are substantial reasons for believing that
+the initial judgment was wrong. Huddersfield Police Authority v
+Watson [1947] K.B. 842 at 848, Re Howard’s Will Trusts, Leven &
+Bradley [1961] Ch. 507 at 523. Amongst the circumstances where it
+may be appropriate for a court to come to a different view would be
+where it was clear that the initial decision was not based upon a
+review of significant relevant authority, where there is a clear error
+in the judgment, or where the judgment sought to be revisited was
+delivered a sufficiently Jengthy period in the past so that the
+jurisprudence of the court in the relevant area might be said to have
+advanced in the intervening period. In the absence of such additional
+circumstances it seems to me that the virtue of consistency requires
+that a judge of this court should not seek to second guess a recent
+determination of the court which was clearly arrived at after a
+thorough review of all of the relevant authorities and which was [...]
+based on forming a judgment between evenly balanced argument. If
+each time such a point were to arise again a judge were free to form
+his or her own view without proper regard to the fact that the point
+had already been determined, the level of uncertainty that would be
+introduced would be disproportionate to any perceived advantage in
+the matter being reconsidered. [...].”
+
+55. This approach has most recently been reaffirmed by the Supreme Court in A. v. Minister
+for Justice and Equality [2020]}TESC 70. The Supreme Court emphasised the
+requirement for certainty in the law. Different decisions on the same issue by different
+members of the same court can only give rise to a situation where judges and practitioners
+alike would be unable to say with clarity what the state of the law is in any given area.
+The Supreme Court emphasised that where one judge of the High Court feels it is
+necessary to depart from a decision of a colleague of that court, it is incumbent on that
+judge to explain the reasons for doing so. This is not just a matter of comity, but Is a
+matter of importance in order to ensure that the law does not descend into uncertainty.
+
+56. turn now to apply these principles to the circumstances of the present case. Rather than
+follow the judgments in Cabinet Confidentiality (No. 1) and (No. 2), 1 have decided,
+instead. to make a reference to the Court of Justice for a preliminary ruling. I do this
+because those two earlier judgments had been reached without the court having an
+
+22
+opportunity to consider the views of the Court of Justice on the interpretation of the
+Environmental Information Directive. The judgment in Cabinet Confidentiality (No. 1)
+had been delivered in June 2010, at a time when the interpretation of the relevant
+provisions of the Environmental Information Directive, namely Article 4(1)(e) and
+4(2)(a), had not yet been considered. The case law had evolved by the time Cabinet
+Confidentiality (No. 2) came to be decided in June 2018, but, unfortunately, two
+significant Advocate General’s Opinions had not been brought to the attention of the
+court. Counsel for the applicant has very frankly acknowledged that his side had been
+unaware at the time of the potential relevance of the two Opinions. Moreover, the case
+law has evolved further since June 2018, with the Court of Justice delivering a significant
+judgment on the Environmental Information Directive as recently as January 2021. (The
+opinions and judgment are discussed in detail at paragraph 58 ef seg. below).
+
+57. | have had an opportunity, which neither of my judicial brethren had, to consider the
+recent jurisprudence of the Court of Justice on the Environmental Information Directive.
+Whereas the legal position is still not clear-cut, I have a very real concern that the
+judgments in Cabinet Confidentiality (No. 1) and (No. 2) were not correctly decided. In
+particular, it seems to me that the dividing line between the “internal communications”
+of a public authority and its subsequent confidential deliberative “proceedings” may not
+have been properly observed in the two judgments. These terms must be given an
+autonomous and uniform interpretation throughout the European Union, and their
+interpretation is a matter of EU law, rather than domestic law. I elaborate upon these
+points under the next heading below.
+
+23
+
+NECESSITY FOR A REFERENCE TO COURT OF JUSTICE
+
+58. There are strong grounds for saying that the meetings of the Government represent
+precisely the type of confidential deliberative proceedings envisaged by Article 4(2)(a)
+of the Environmental Information Directive. The Government is mandated under
+Article 28.4.2° of the Constitution of Ireland to “meet and act as a collective authority”.
+The purpose of these meetings, as identified by the Supreme Court in Attorney General v.
+Hamilton [1993] 21.R. 250, is to allow for full, free and frank discussion between
+members of the Government prior to the making of decisions. (See page 266 of the
+reported judgment as follows).
+
+“These obligations involve some obvious, necessary, consequential
+duties. The first of those relevant to the issues arising in this appeal
+is the necessity for full, free and frank discussion between members
+of the Government prior to the making of decisions, something which
+would appear to be an inevitable adjunct to the obligation to meet
+collectively and to act collectively. The obligation to act collectively
+must, of necessity, involve the making of a single decision on any
+issue, whether it is arrived at unanimously or by a majority. The
+obligation to accept collective responsibility for decisions and,
+presumably, for acts of government as well, involves, as a necessity,
+the non-disclosure of different or dissenting views held by members
+of the Government prior to the making of decisions.”
+
+59. Such discussions are more properly characterised as involving deliberations rather than
+internal communications, and, as such, are logically within the scope of the exception for
+the “proceedings” of a public authority. This interpretation is supported by the two
+Opinions relied upon by counsel for the applicant. The first is that in Case C-204/09,
+Flachglas Torgau. Advocate General Sharpston describes the concept of the
+“proceedings” of a public authority as being confined to expressions of view and
+discussions of policy options in the context of decision-taking procedures within each
+such authority. The Advocate General also drew attention to the fact that in a number of
+the authentic versions of the Directive, a word cognate to “deliberations” is used.
+
+24
+“T note here that the wording of the Directive (and of the Convention)
+may give rise to some hesitation when different language versions are
+compared. On the one hand, the authentic French of the Convention
+speaks of ‘délibérations’, the expression also used in the Directive,
+where it is mirrored by, for example, the German ‘Beratungen’ and
+the even more specific ‘deliberazioni interne’ in Italian. Those
+versions seem more supportive of the Commission’s view. On the
+other hand, the equally authentic English version of the Convention
+speaks of ‘proceedings’, again the expression found in the Directive,
+where it is mirrored, for example, in Spanish and Portuguese by
+‘procedim(ijentos’ and in Dutch by ‘handelingen’ — all terms which
+might be read as having a broader meaning and thus as more
+supportive of the German Government’s interpretation.”
+
+60. There is no elaborate analysis of this issue in the judgment of the Court of Justice itself,
+but it is stated, at paragraph 63 thereof, that the concept of “proceedings” of public
+authorities refers to the final stages of the decision-making process of public authorities.
+
+61. The second Opinion cited is that of Advocate General Szpunar in Case C-60/15 P, Saint-
+Gobain Glass Deutschland. The Advocate General considered that the concept of
+“proceedings” must be understood as covering only the deliberation stage of decision-
+making procedures.
+
+62. Counsel for the applicant suggests that the distinction between what he describes as a
+“thinking space” and the formal deliberative process might represent the dividing line
+between “internal communications” and “proceedings” (in the sense of deliberations).
+Meetings of the Government are said to fall within the latter category.
+
+63. Having carefully considered all of this case law, I have concluded that the interpretation
+of the two terms is not obvious. In particular, the dividing line between “internal
+communications” and confidential “proceedings” is unclear. In the absence of guidance
+from the Court of Justice on the interpretation of the Environmental Information
+Directive, I am unable to determine conclusively which category records of meetings of
+the Government fall into. The judgment in Case C-619/19, Land Baden-Wiirttemberg is
+of only limited assistance to me in this regard. It is difficult to know how the notion of
+
+25
+information which circulates within a public authority and which, on the date of the
+request for access, has not left that authority’s internal sphere, is to be applied to meetings
+of the Government.
+
+64. In summary, I am satisfied that there is a strong argument that meetings of the
+Government come closer to the type of deliberative process captured by the term
+“proceedings”, as interpreted by the two Advocates General in the two Opinions cited on
+behalf of the applicant. Given the high constitutional status which meetings of the
+Government have, they do not sit comfortably within the “internal communincations”
+pigeonhole. I cannot, however, reach a final decision on this issue without the benefit of
+a preliminary ruling from the Court of Justice.
+
+EXHAUSTION OF RIGHT OF APPEAL TO COMMISSIONER
+
+65. As flagged earlier, the discussion of the objection that the applicant failed to exercise its
+statutory right of appeal has been deliberately deferred to this point in the judgment. This
+is because it is necessary for the reader to have a full appreciation of the legal issues
+arising in the proceedings, in order to properly understand the findings of the court on
+this objection.
+
+66. The Supreme Court has recently reaffirmed in Petece/ vy. Minister for Social Protection
+[2020] IESC 25 that the existence of a right of administrative appeal is not an automatic
+bar to the right to seek judicial review, but is a matter to be taken into consideration in
+the exercise of the discretion of the High Court judge. One of the factors to be considered
+is whether, for jurisdictional reasons, the statutory appeal process cannot provide the
+remedy sought.
+
+67. For the reasons which follow, I have concluded that, in the very special circumstances of
+the present case, it would not be a proper exercise of the court’s discretion to refuse to
+
+26
+entertain an application for judicial review by dint of the fact that the applicant failed to
+exhaust its statutory right of appeal to the Commissioner for Environmental Information
+(“the Commissioner’).
+
+68. First, the applicant’s access request gives rise to significant—and difficult—issues of EU
+law and domestic constitutional law. These include, obviously, questions as to the correct
+interpretation of the Environmental Information Directive, and, in particular, the
+interaction between the exceptions for “internal communications” and “proceedings” of
+a public authority, respectively. Crucially, however, questions also arise in respect of
+domestic constitutional law. These relate to the interaction between the protection
+afforded to cabinet confidentiality under the Constitution of Ireland and the domestic
+regulations on access to information on the environment. Whereas the Commissioner
+would, presumably, have jurisdiction to make a reference to the Court of Justice in
+respect of the EU law issues, the Commissioner does not have the competence to
+determine the issues of domestic constitutional law. This is especially so where the
+Commissioner would be invited not to follow the two earlier High Court judgments on
+cabinet confidentiality.
+
+69. It seems inevitable, therefore, that any decision by the Commissioner would almost
+certainly be appealed to the High Court. There is no obvious benefit, then, in forcing the
+applicant in this case down the route of a statutory appeal given that, even had an appeal
+been made to the Commissioner, the matter would ultimately have come before the High
+Court in any event. The rationale underlying much of the case law in respect of the
+exhaustion of rights is that the statutory appeal mechanism will provide an adequate
+alternative remedy and may obviate the necessity of recourse to the High Court. These
+considerations do not apply with any force on the facts of the present case.
+
+27
+
+70. Secondly, in assessing the reasonableness of the conduct of the applicant in instituting
+judicial review proceedings, in preference to a statutory appeal to the Commissioner, it
+is necessary to consider the legal landscape as it lay at the time these proceedings were
+instituted. These proceedings were instituted by way of an ex parte application for leave
+on 12 November 2018. As of that date, the case law indicated that, as a matter of
+domestic law, an administrative decision-maker such as the Commissioner did not have
+jurisdiction to disapply provisions of domestic law which conflicted with the
+requirements of an EU Directive. This principle had been applied in the specific context
+of the Commissioner for Environmental Information by the High Court in Cabinet
+Confidentiality (No. 1).
+
+71. As of the date the present proceedings were instituted, therefore, it would have been
+doubtful whether the Commissioner had jurisdiction to determine any conflict between
+domestic and EU law. Indeed, there may even have been a question mark as to whether
+the Commissioner would have had jurisdiction to make a reference to the Court of Justice
+for a preliminary ruling. It was not unreasonable, therefore, for the applicant to bring the
+matter directly before the High Court.
+
+72. The legal position has since changed as a result of the judgment of a Grand Chamber of
+the Court of Justice in Case C-378/17, Minister for Justice v. Workplace Relations
+Commission. This judgment was delivered on 4 December 2018. It would not, in my
+view, be a proper exercise of the court’s discretion to refuse to entertain the judicial
+review proceedings by reference to this change in circumstances. To do so would be to
+assess the applicant’s choice to go by way of judicial review with the benefit of hindsight.
+This would be unfair.
+
+73. Thirdly, it is also relevant to the exercise of the court’s discretion to note that the question
+of alternative remedies had been expressly addressed by the High Court (Fullam J.) in
+
+28
+the context of the first judicial review proceedings taken by the applicant. The leave
+application had been moved ex parte on 7 September 2016, and judgment reserved. A
+detailed written judgment was subsequently delivered on 7 October 2016. I have been
+furnished with an unapproved version of this judgment. (The respondent sought to make
+something of the fact that the judgment has not been formally approved, but I am satisfied
+that nothing turns on this. The judgment was delivered on an ex parte application and it
+would be unusual for such a judgment to be formally approved or posted to the Courts
+Service website).
+
+74. The High Court held (at paragraphs 43 and 44 of the judgment) that an application by
+way of judicial review was the appropriate remedy. Fullam J. observed that in
+circumstances where the Commissioner would be bound to apply the decision of the High
+Court in Cabinet Confidentiality (No. 1), the exercise of the statutory right of appeal to
+the Commissioner would merely delay the substantive challenge.
+
+75. Having regard to the fact that the High Court had previously granted leave to apply for
+judicial review on the basis that it was the appropriate remedy, it was reasonable for the
+applicant to have pursued the same course in challenging the remitted decision, i.e. to
+institute judicial review proceedings in preference to a statutory appeal.
+
+76. Finally, it would, in the special circumstances of this case, be contrary to the right of
+access to a court under Article 6 of the Environmental Information Directive to rely on
+the technical objection that judicial review proceedings are inappropriate. Whereas the
+imposition of a requirement to exhaust a statutory right of appeal is not precluded by
+Article 6, any such requirement must be predictable and certain. Here, the applicant was
+entitled to rely on the judgment of 7 October 2016 as indicating that judicial review could
+be pursued.
+
+29
+
+CONCLUSION AND NEXT LISTING
+
+77, There is a strong argument that meetings of the Government should be characterised, for
+the purposes of the Environmental Information Directive, as entailing the type of
+deliberative process captured by the term “proceedings” under Article 4(2)(e). The
+significance of this being that certain exceptions from the obligation to disclose
+information would not then apply to records of the meetings of the Government. It would
+be mandatory to disclose records relating to information on emissions into the
+environment.
+
+78. This interpretation of the Environmental Information Directive is consistent with the
+approach adopted by the two Advocates General in the two Opinions cited on behalf of
+the applicant. (See paragraphs 58 to 63 above). I cannot, however, reach a final decision
+on this issue without the benefit of a preliminary ruling from the Court of Justice.
+
+79. Accordingly, I propose to make a reference to the Court of Justice pursuant to Article 267
+of the Treaty on the Functioning of the European Union (“7FEU’) for a preliminary
+ruling on the interpretation of the relevant provisions of Article 4 of the Environmental
+Information Directive. T will discuss with counsel the precise form of questions to be
+referred.
+
+80. I also propose to refer a question as to the application, if any, of the principle of res
+judicata in the form of issue estoppel to the interpretation of the Environmental
+Information Directive. In circumstances where I have concluded that a reference is
+necessary in any event, in order to allow me to determine the proceedings before me, the
+inclusion of this additional question will not entail any extra delay.
+
+81. It will be necessary, in the reference, to apprise the Court of Justice of the nature of the
+records at issue and the nature of the discussions recorded therein. It may be, for
+example, that there is a difference in status between records of meetings of the full cabinet
+
+30
+and those of cabinet subcommittees. Counsel for the respondent has previously
+confirmed that his side has no objection, in principle, to my having sight of the relevant
+records. It occurs to me that it may now be necessary for me to consider the documents.
+Alternatively, it may be possible for the parties to agree a description of the nature of the
+records at issue and the nature of the discussions recorded therein.
+
+82. I propose to list the case before me, on a date convenient to the parties, for submissions
+on the precise form of reference. The case will initially be listed before me, for mention
+only, on Friday 7 May 2021 to fix a hearing date.
+
+Appearances
+
+Noel Travers, SC and David Browne for the applicant instructed by FP Logue Solicitors
+
+Brian Kennedy, SC and Aoife Carroll for the respondent instructed by the Chief State Solicitor
+
+Prepac
+Ca HX Sug

@@ -1,0 +1,39 @@
+TASK
+Extract distinct procedural requirements from the supplied English 2012 Rules of Procedure of the Court of Justice, within the predefined DECLARE families and slots below. The corpus is the supplied historical edition, not a claim about the law currently in force.
+The common source document is CELEX_32012Q0929(01)_EN_TXT.pdf. Its complete locally extracted text is supplied between SOURCE BEGIN and SOURCE END and is identical across models and repetitions.
+
+REQUIRED SLOTS
+{{SLOTS}}
+
+ALLOWED DECLARE TEMPLATES AND SEMANTICS
+{{TEMPLATES}}
+
+ALLOWED ACTIVITY LABELS
+The following list contains the distinct values of the Activity column in curia_log_en.csv. This is the complete vocabulary allowed as DECLARE arguments:
+{{ACTIVITIES}}
+Use these labels exactly, including capitalisation, spaces, punctuation and parentheses. Do not translate, abbreviate, rename, merge or invent labels. The vocabulary is identical across models and repetitions. Only these labels are supplied from the event log; case records, parties, timestamps and observed sequences are not supplied as evidence.
+
+MODELLING CONVENTIONS
+- A trace represents the sequence of events recorded for one judicial case. Each event has one of the allowed activity labels. Do not assume that the log records every legally relevant procedural act, or that a document or publication label is interchangeable with the act it describes.
+- Use the supplied template names and the readable notation Template("Exact activity label") or Template("First exact activity label", "Second exact activity label"). Every argument must be a double-quoted JSON string whose decoded value is exactly one of the allowed labels. Escape double quotes and backslashes inside labels as required by JSON. The letters a and b in the template definitions are placeholders for these labels. This notation is the study's declared dialect; it is not a Declare4Py .decl serialisation.
+- Quotas apply to instantiated requirements, not to different template types. Reusing a template for different legal prescriptions is allowed. Do not fill multiple slots with equivalent restatements of the same prescription.
+- Do not treat a permission as an obligation. Preserve legally essential scope, conditions and exceptions in the short natural-language requirement. A conditional or case-type-specific rule must have its restriction explicit in that sentence. The DECLARE formula is interpreted only within that stated scope; do not add unsupported data or time syntax.
+- Mutual constraints require support for both directions. Temporal order does not imply immediate adjacency. Absence of a mention is not a prohibition. Init and End refer to the first and last recorded event of the case, not merely to the start or end of an internal phase; do not use these templates when the necessary boundary correspondence is unsupported. NotCoExistence does not require either activity to occur.
+- Do not infer the missing content of a referenced statute or other external instrument. If the provided text alone cannot support the proposed rule, leave the slot empty as specified below.
+- Extract a requirement only when it can be faithfully represented using the allowed activity labels. Do not substitute a related document or publication label for an unobserved procedural act without support for that correspondence. If a required activity is absent from the vocabulary, leave the slot empty rather than inventing a label or weakening the legal requirement.
+- If no further distinct, adequately supported rule can be extracted for a slot using the allowed activity labels, use null for all four content fields in that slot. Do not invent a rule to meet the quota.
+
+MINIMAL OUTPUT
+Return a JSON object with exactly one top-level key, "rules", whose value is an array with one object for each required slot. Each object has exactly these fields:
+{
+  "slot_id": "one of the required slot IDs",
+  "source_reference": "Article and paragraph(s); include all references necessary to support this rule",
+  "source_quote": "The verbatim English passage(s) supporting the rule, sufficiently complete to retain essential qualifications",
+  "requirement": "One concise English sentence stating the extracted prescription, including essential scope/conditions/exceptions",
+  "declare": "Template(\"First exact activity label\", \"Second exact activity label\")"
+}
+For an unfilled slot return its slot_id and null for source_reference, source_quote, requirement and declare. Keep quotations compact but do not omit essential qualifications. When several separate excerpts are necessary, separate them with a newline; do not present invented connective text as a quotation. Do not include explanations of your reasoning. The source_reference and source_quote will be displayed together as a single source block for human review.
+
+SOURCE BEGIN
+{{SOURCE_TEXT}}
+SOURCE END

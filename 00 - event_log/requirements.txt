@@ -1,0 +1,7 @@
+requests==2.34.2
+beautifulsoup4==4.15.0
+pypdf==7.1.1
+pandas==3.1.1
+# PM4Py version validated for the event log analysis notebook.
+pm4py==2.7.23.12
+ipykernel==7.4.0

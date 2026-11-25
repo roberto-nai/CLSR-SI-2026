@@ -1,0 +1,66 @@
+ID,DECLARE,source,requirement
+R01,"Precedence(""Judgment"", ""Order"")","Article 103(1) and (3)
+
+Clerical mistakes, errors in calculation and obvious inaccuracies affecting judgments or orders may be rectified by the Court, of its own motion or at the request of an interested person referred to in Article 23 of the Statute made within two weeks after delivery of the judgment or service of the order.
+The original of the rectification order shall be annexed to the original of the rectified decision. A note of this order shall be made in the margin of the original of the rectified decision.","In preliminary ruling proceedings, a rectification order affecting a judgment may occur only after the judgment being rectified."
+R02,"AtLeastOne(""Request for a preliminary ruling"")","Articles 93 and 94
+
+Article 93: The procedure shall be governed by the provisions of this Title: (a) in the cases covered by Article 23 of the Statute, (b) as regards references for interpretation which may be provided for by agreements to which the European Union or the Member States are parties.
+Article 94: In addition to the text of the questions referred to the Court for a preliminary ruling, the request for a preliminary ruling shall contain: (a) a summary of the subject-matter of the dispute and the relevant findings of fact as determined by the referring court or tribunal, or, at least, an account of the facts on which the questions are based; (b) the tenor of any national provisions applicable in the case and, where appropriate, the relevant national case-law; (c) a statement of the reasons which prompted the referring court or tribunal to inquire about the interpretation or validity of certain provisions of European Union law, and the relationship between those provisions and the national legislation applicable to the main proceedings.","In preliminary ruling proceedings governed by Title III, there must be a request for a preliminary ruling containing the referred questions and prescribed supporting content."
+R03,"AtLeastOne(""Application (OJ)"")","Article 21(4)
+
+A notice shall be published in the Official Journal of the European Union indicating the date of registration of an application initiating proceedings, the names of the parties, the form of order sought by the applicant and a summary of the pleas in law and of the main supporting arguments","When an application initiating proceedings is registered, a notice of that application must be published in the Official Journal."
+R04,"CoExistence(""Judgment"", ""Judgment (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.","For a judgment that closes the proceedings, the judgment and its Official Journal notice co-occur: the notice reports that closing judgment and that closing judgment is published by such a notice."
+R05,"NotCoExistence(""Request for a preliminary ruling"", ""Statement of case or written observations"")","Articles 109(2) and 111
+
+Article 109(2): The decision to deal with the reference under the urgent procedure shall prescribe the time-limit within which those parties or entities may lodge statements of case or written observations.
+Article 111: The designated Chamber may, in cases of extreme urgency, decide to omit the written part of the procedure referred to in Article 109(2).","In urgent preliminary ruling cases where the designated Chamber decides in extreme urgency to omit the written part of the procedure, the request for a preliminary ruling is not accompanied by statements of case or written observations under Article 109(2)."
+R06,"AtLeastOne(""Opinion (AG)"")","Article 196(1); Article 199
+
+Article 196(1): In accordance with Article 218(11) TFEU, a request for an Opinion may be made by a Member State, by the European Parliament, by the Council or by the European Commission.
+Article 199: The Court shall deliver its Opinion as soon as possible, after hearing the Advocate General.","In Opinion proceedings under Article 218(11) TFEU, the Court must deliver an Opinion."
+R07,"CoExistence(""Order"", ""Order (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.","For an order that closes the proceedings, the order and its Official Journal notice co-occur: the notice reports that closing order and that closing order is published by such a notice."
+R08,"Succession(""Opinion (AG)"", ""Judgment"")","Articles 82(2), 112, 136
+
+The President shall declare the oral part of the procedure closed after the Advocate General has delivered his Opinion. ... The designated Chamber shall rule after hearing the Advocate General. ... The Court shall give its ruling after hearing the Advocate General.","In a case in which the Advocate General delivers an Opinion and the Court rules by judgment after hearing the Advocate General, the Opinion precedes the judgment and the judgment follows the Opinion."
+R09,"Init(""Request for a preliminary ruling"")","Articles 93, 94, 98, 100(1)
+
+The Court shall remain seised of a request for a preliminary ruling for as long as it is not withdrawn by the court or tribunal which made that request to the Court.","In a reference for a preliminary ruling, the first recorded event of the case is the request for a preliminary ruling."
+R10,"Response(""Judgment"", ""Judgment (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.",Every judgment that closes the proceedings is followed by a later Official Journal notice of that judgment.
+R11,"AtLeastOne(""Order (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.","Where a case is closed by an order, at least one Official Journal notice of that closing order must occur."
+R12,"RespondedExistence(""Order"", ""Order (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.","Where an order of the Court closes the proceedings, a notice containing its date and operative part must be published in the Official Journal."
+R13,"Response(""Order"", ""Order (OJ)"")","Articles 90, 92
+
+The original of the order, signed by the President and by the Registrar, shall be sealed and deposited at the Registry; certified copies of the order shall be served on the parties ...
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.",An order which closes the proceedings is followed by publication of the corresponding Official Journal notice.
+R14,"Precedence(""Request for a preliminary ruling"", ""Judgment"")","Articles 93-94, 88, 92
+
+The procedure shall be governed by the provisions of this Title: (a) in the cases covered by Article 23 of the Statute ...
+In addition to the text of the questions referred to the Court for a preliminary ruling, the request for a preliminary ruling shall contain: ...
+The judgment shall be delivered in open court.","In a reference for a preliminary ruling, every judgment is preceded by the request for a preliminary ruling."
+R15,"AtLeastOne(""Judgment (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.","Where proceedings are closed by a judgment, a judgment notice is published in the Official Journal at least once."
+R16,"AtLeastOne(""Judgment"")","Article 201(6)
+
+The Court shall give its decision in the form of a judgment. Where the Court sets aside the decision of the arbitration committee it may refer the case back to the committee.","In an appeal against a decision of the arbitration committee, the Court must give its decision in the form of a judgment."
+R17,"Precedence(""Request for a preliminary ruling"", ""Statement of case or written observations"")","Article 105(2) and (3)
+
+In that event, the President shall immediately fix the date for the hearing, which shall be communicated to the interested persons referred to in Article 23 of the Statute when the request for a preliminary ruling is served.
+The interested persons referred to in the preceding paragraph may lodge statements of case or written observations within a time-limit prescribed by the President, which shall not be less than 15 days.","In expedited preliminary ruling proceedings, statements of case or written observations by interested persons are lodged only after the request for a preliminary ruling has been served."
+R18,"NotCoExistence(""Application (OJ)"", ""Request for a preliminary ruling"")","Article 21(4); Titles III and IV
+
+A notice shall be published in the Official Journal of the European Union indicating the date of registration of an application initiating proceedings, ... or, as the case may be, the date of lodging of a request for a preliminary ruling ...",A single case is either initiated as a direct action by an application notice or as a reference by a request for a preliminary ruling; the application notice and the request for a preliminary ruling do not both occur in the same trace.
+R19,"RespondedExistence(""Judgment"", ""Judgment (OJ)"")","Article 92
+
+A notice containing the date and the operative part of the judgment or order of the Court which closes the proceedings shall be published in the Official Journal of the European Union.","Where a judgment of the Court closes the proceedings, a notice containing its date and operative part must be published in the Official Journal."

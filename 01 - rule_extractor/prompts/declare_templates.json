@@ -1,0 +1,28 @@
+{
+  "existence": {
+    "Init(a)": "The first event of the trace is a.",
+    "AtLeastOne(a)": "Activity a occurs at least once in the trace.",
+    "AtMostOne(a)": "Activity a occurs at most once in the trace; zero occurrences are allowed.",
+    "End(a)": "The last event of the trace is a."
+  },
+  "relation": {
+    "RespondedExistence(a,b)": "If a occurs anywhere in the trace, b also occurs somewhere in the trace; there is no temporal ordering requirement.",
+    "Response(a,b)": "Every occurrence of a is followed by a later occurrence of b.",
+    "AlternateResponse(a,b)": "Every a is followed by b before another a occurs.",
+    "ChainResponse(a,b)": "Every a is immediately followed by b as the next event of the trace.",
+    "Precedence(a,b)": "Every b has an earlier a in the trace; a need not be followed by b.",
+    "AlternatePrecedence(a,b)": "Every b has an earlier a, with no other b between that a and b.",
+    "ChainPrecedence(a,b)": "Every b is immediately preceded by a as the previous event of the trace."
+  },
+  "mutual": {
+    "CoExistence(a,b)": "a occurs if and only if b occurs; either both occur or neither occurs, with no ordering requirement.",
+    "Succession(a,b)": "Both Response(a,b) and Precedence(a,b) hold.",
+    "AlternateSuccession(a,b)": "Both AlternateResponse(a,b) and AlternatePrecedence(a,b) hold.",
+    "ChainSuccession(a,b)": "Both ChainResponse(a,b) and ChainPrecedence(a,b) hold."
+  },
+  "negative": {
+    "NotCoExistence(a,b)": "a and b never both occur in the same trace. Neither activity is required to occur.",
+    "NotSuccession(a,b)": "No b occurs after any a. This is directional; b before a is allowed.",
+    "NotChainSuccession(a,b)": "No a is immediately followed by b. This is directional; b immediately followed by a is allowed."
+  }
+}

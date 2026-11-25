@@ -1,0 +1,38 @@
+17.
+
+(a) the confidentiality of the proceedings of public authorities,
+where such confidentiality is provided for by law;
+
+[.--]
+The grounds for refusal mentioned in paragraphs | and 2 shall be
+interpreted in a restrictive way, taking into account for the particular
+case the public interest served by disclosure. In every particular case,
+the public interest served by disclosure shall be weighed against the
+interest served by the refusal. Member States may not, by virtue of
+paragraph 2(a), (d), (f), (g) and (h), provide for a request to be refused
+where the request relates to information on emissions into the
+environment.”
+As appears, the exception in respect of the confidential “proceedings” of a public
+authority is not available where the request relates to information on emissions into the
+environment. Put otherwise, this class of exception is subject to what the applicant
+describes as the “emissions override”. Were the applicant to be correct in its
+characterisation of meetings of the Government as the confidential “proceedings” of a
+public authority, then disclosure would be mandatory insofar as the information relates
+to emissions into the environment, and the Government could not rely on the principle
+of cabinet confidentiality to refuse access to such information.
+The respondent disputes this characterisation. On the respondent’s case, records of
+meetings of the Government fall within Article 4(1)(e) of the Environmental Information
+
+Directive as follows.
+
+“Member States may provide for a request for environmental
+information to be refused if:
+
+[...]
+
+(e) the request concerns internal communications, taking into
+account the public interest served by disclosure.”
+
+This class of exception is not subject to what the applicant describes as the “emissions
+
+override’’.

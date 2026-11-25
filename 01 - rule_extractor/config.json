@@ -1,0 +1,44 @@
+{
+  "study_name": "CURIA - guided DECLARE extraction",
+  "repetitions": 3,
+  "quotas": {
+    "existence": 3,
+    "relation": 3,
+    "mutual": 3,
+    "negative": 3
+  },
+  "source_file": "data/rules_of_procedure_2012_en.txt",
+  "source_manifest": "data/source_manifest.json",
+  "event_log_file": "data/curia_log_en.csv",
+  "activity_column": "Activity",
+  "system_prompt_file": "prompts/system.txt",
+  "task_prompt_file": "prompts/task.txt",
+  "templates_file": "prompts/declare_templates.json",
+  "max_output_tokens": 16000,
+  "timeout_seconds": 300,
+  "blinding_seed": 20261109,
+  "providers": [
+    {
+      "id": "openai",
+      "provider": "openai",
+      "model": "gpt-5.5-2026-04-23",
+      "api_key_env": "OPENAI_API_KEY",
+      "reasoning_effort": "medium"
+    },
+    {
+      "id": "anthropic",
+      "provider": "anthropic",
+      "model": "claude-sonnet-5-5",
+      "api_key_env": "ANTHROPIC_API_KEY",
+      "api_version": "2026-10-21",
+      "reasoning_effort": "medium"
+    },
+    {
+      "id": "mistral",
+      "provider": "mistral",
+      "model": "mistral-large-4-0",
+      "api_key_env": "MISTRAL_API_KEY",
+      "reasoning_effort": "medium"
+    }
+  ]
+}

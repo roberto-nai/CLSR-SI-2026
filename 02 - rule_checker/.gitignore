@@ -1,0 +1,62 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.hypothesis/
+.ipynb_checkpoints/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# Packaging and test reports
+build/
+dist/
+*.egg-info/
+*.egg
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# ZIP archives at any depth
+*.zip
+
+# Generated results: retain only .gitkeep placeholders, including subdirectories
+/results/**
+!/results/**/
+!/results/**/.gitkeep
+/results_*/**
+!/results_*/**/
+!/results_*/**/.gitkeep
+
+# Local archives, tests and temporary directories at any depth
+_old*/
+_test*/
+_tmp*/
+_temp*/
+_backup*/
+_bak*/
+_archive*/

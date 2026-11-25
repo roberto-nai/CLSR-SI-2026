@@ -1,0 +1,48 @@
+British English release 1.1.0 validated on 2026-11-09
+All automated tests use temporary fixtures and mocked HTTP.
+No real LLM API calls were made during verification.
+The supplied event log was separately checked: 4,744 rows, 19 exact Activity labels.
+The original EUR-Lex PDF was not available for a real extraction test.
+The user-specific OpenAI failure requires the archived API diagnostic.
+
+test_bare_labels_non_strings_extra_expressions_and_missing_arguments_fail (test_activities.ActivityArgumentTests.test_bare_labels_non_strings_extra_expressions_and_missing_arguments_fail) ... ok
+test_case_spacing_snake_case_and_synonyms_do_not_pass_membership (test_activities.ActivityArgumentTests.test_case_spacing_snake_case_and_synonyms_do_not_pass_membership) ... ok
+test_exact_quoted_labels_allow_spaces_parentheses_commas_and_escapes (test_activities.ActivityArgumentTests.test_exact_quoted_labels_allow_spaces_parentheses_commas_and_escapes) ... ok
+test_template_semantics_remain_a_human_judgement (test_activities.ActivityArgumentTests.test_template_semantics_remain_a_human_judgement) ... ok
+test_missing_blank_and_malformed_rows_are_not_silently_dropped (test_activities.ActivityVocabularyTests.test_missing_blank_and_malformed_rows_are_not_silently_dropped) ... ok
+test_missing_column_empty_log_and_duplicate_headings_are_rejected (test_activities.ActivityVocabularyTests.test_missing_column_empty_log_and_duplicate_headings_are_rejected) ... ok
+test_supported_delimiters_preserve_exact_labels_and_no_case_data (test_activities.ActivityVocabularyTests.test_supported_delimiters_preserve_exact_labels_and_no_case_data) ... ok
+test_abstentions_and_missing_are_distinct (test_pipeline.OutputTests.test_abstentions_and_missing_are_distinct) ... ok
+test_duplicate_slots_are_not_silently_deduplicated (test_pipeline.OutputTests.test_duplicate_slots_are_not_silently_deduplicated) ... ok
+test_fences_are_removed_without_repair (test_pipeline.OutputTests.test_fences_are_removed_without_repair) ... ok
+test_invalid_declare_is_preserved_for_human (test_pipeline.OutputTests.test_invalid_declare_is_preserved_for_human) ... ok
+test_annotation_text_cannot_be_edited_as_if_original (test_pipeline.PipelineTests.test_annotation_text_cannot_be_edited_as_if_original) ... ok
+test_archived_api_error_can_be_diagnosed_without_calls_or_writes (test_pipeline.PipelineTests.test_archived_api_error_can_be_diagnosed_without_calls_or_writes) ... ok
+test_failure_is_preserved_and_retry_is_explicit (test_pipeline.PipelineTests.test_failure_is_preserved_and_retry_is_explicit) ... ok
+test_frozen_source_and_config_cannot_change (test_pipeline.PipelineTests.test_frozen_source_and_config_cannot_change) ... ok
+test_full_pipeline_and_resume_without_duplicates (test_pipeline.PipelineTests.test_full_pipeline_and_resume_without_duplicates) ... ok
+test_invalid_activity_cannot_be_accepted_despite_all_positive_human_votes (test_pipeline.PipelineTests.test_invalid_activity_cannot_be_accepted_despite_all_positive_human_votes) ... ok
+test_legacy_review_data_keep_their_original_record_shape (test_pipeline.PipelineTests.test_legacy_review_data_keep_their_original_record_shape) ... ok
+test_original_outputs_cannot_change_unnoticed (test_pipeline.PipelineTests.test_original_outputs_cannot_change_unnoticed) ... ok
+test_original_source_is_frozen_with_the_text (test_pipeline.PipelineTests.test_original_source_is_frozen_with_the_text) ... ok
+test_refusal_is_not_retried_as_transport_failure (test_pipeline.PipelineTests.test_refusal_is_not_retried_as_transport_failure) ... ok
+test_three_repetitions_freeze_nine_jobs (test_pipeline.PipelineTests.test_three_repetitions_freeze_nine_jobs) ... ok
+test_vocabulary_is_frozen_and_case_rows_are_not_sent (test_pipeline.PipelineTests.test_vocabulary_is_frozen_and_case_rows_are_not_sent) ... ok
+test_claude_and_mistral_exclude_thinking (test_providers.ProviderTests.test_claude_and_mistral_exclude_thinking) ... ok
+test_error_display_removes_control_characters_and_ignores_successes (test_providers.ProviderTests.test_error_display_removes_control_characters_and_ignores_successes) ... ok
+test_failed_openai_response_keeps_provider_error_details (test_providers.ProviderTests.test_failed_openai_response_keeps_provider_error_details) ... ok
+test_http_error_keeps_provider_cause_and_request_id (test_providers.ProviderTests.test_http_error_keeps_provider_cause_and_request_id) ... ok
+test_http_errors_are_redacted_without_retry (test_providers.ProviderTests.test_http_errors_are_redacted_without_retry) ... ok
+test_legacy_error_archive_can_be_diagnosed_without_a_new_request (test_providers.ProviderTests.test_legacy_error_archive_can_be_diagnosed_without_a_new_request) ... ok
+test_missing_key_never_opens_connection (test_providers.ProviderTests.test_missing_key_never_opens_connection) ... ok
+test_openai_extracts_final_answer_and_keeps_metadata (test_providers.ProviderTests.test_openai_extracts_final_answer_and_keeps_metadata) ... ok
+test_payloads_use_documented_parameters_and_no_tools (test_providers.ProviderTests.test_payloads_use_documented_parameters_and_no_tools) ... ok
+test_redirects_and_transport_failures_are_not_retried (test_providers.ProviderTests.test_redirects_and_transport_failures_are_not_retried) ... ok
+test_refusals_and_truncations_are_not_successes (test_providers.ProviderTests.test_refusals_and_truncations_are_not_successes) ... ok
+test_successful_http_call_preserves_raw_and_request_id (test_providers.ProviderTests.test_successful_http_call_preserves_raw_and_request_id) ... ok
+test_transport_diagnostics_identify_certificate_timeout_and_dns_failures (test_providers.ProviderTests.test_transport_diagnostics_identify_certificate_timeout_and_dns_failures) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 0.241s
+
+OK

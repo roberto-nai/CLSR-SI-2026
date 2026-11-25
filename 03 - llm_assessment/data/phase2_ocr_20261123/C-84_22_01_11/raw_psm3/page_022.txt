@@ -1,0 +1,35 @@
+31.
+
+(1).
+32.
+
+12
+
+in personam irrespective of whether the finding is right or wrong. The values which the
+doctrine of res judicata seeks to protect are subtly different from those of the doctrine of
+precedent. In particular, the doctrine of res judicata is directed to the conduct of the
+parties and the need to avoid questions, which have already been determined conclusively
+in earlier proceedings, from being relitigated between the same parties or their privies.
+If a party is aggrieved by a judicial determination, then the remedy is to appeal that
+determination rather than attempt to reagitate the same question in a second set of
+proceedings. If a party allows an earlier judicial determination against them to go
+unappealed, then they will ordinarily be bound in personam by that determination on that
+issue, even though it may be incorrect in law. Put shortly, the principle of res judicata
+places a premium on the finality of litigation.
+
+I turn next to consider the two arguments in more detail. I propose to take the arguments
+
+in reverse order, by commencing with the argument based on res judicata.
+
+RES JUDICATA / ISSUE ESTOPPEL
+
+The term res judicata is often used as an umbrella term, embracing a number of related
+principles all of which seek to advance the public interest in the finality of litigation. The
+strictest form of res judicata is cause of action estoppel, whereby a party is precluded
+from pursuing a particular cause of action in consequence of a final judgment in earlier
+proceedings. The next form of res judicata is issue estoppel, whereby a party will,
+generally, be precluded from relitigating an issue of fact or law which has previously
+been determined against them in earlier proceedings. The determination of that issue
+must have been necessary to the outcome of the earlier proceedings, i.e. the finding on
+
+the issue must have been fundamental rather than merely collateral or incidental.

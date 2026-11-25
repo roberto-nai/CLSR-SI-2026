@@ -1,0 +1,34 @@
+# Local credentials; keep the shared example.
+.env
+.env.*
+!.env.example
+
+# Python environments and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated outputs: keep directory placeholders only.
+/outputs/**
+!/outputs/**/
+!/outputs/**/.gitkeep
+
+# Local snapshots of experiment settings.
+/config*.frozen.json
+
+# Archived, experimental and temporary directories at any depth.
+_old*/
+_test*/
+_archive*/
+_backup*/
+_tmp*/
+_temp*/
+tmp/
+temp/
+
+# Local archives and macOS metadata.
+*.[zZ][iI][pP]
+.DS_Store
+._*

@@ -1,0 +1,64 @@
+{
+  "rules_csv": "data/rules_current.csv",
+  "event_log_csv": "data/curia_log_en_C_2016-2026_clean.csv",
+  "case_texts_dir": "../00 - event_log/data_text",
+  "formal_mode": "import",
+  "formal_results": "data/declare_results_current.zip",
+  "output_dir": "outputs/phase2_2016_2026_50_cases_32000_three_outcomes_20261123",
+  "min_events": 5,
+  "case_category": "C",
+  "year_start": 2016,
+  "year_end": 2026,
+  "cases_per_year": 5,
+  "case_ids": null,
+  "variant_ids": null,
+  "sampling_seed": 20261118,
+  "repetitions": 1,
+  "conditions": [
+    "B"
+  ],
+  "assessment_mode": "case",
+  "request_workers": 6,
+  "requests_per_provider": 2,
+  "max_document_characters": null,
+  "max_case_characters": null,
+  "evidence_jsonl": null,
+  "max_output_tokens": 32000,
+  "article_report_view": "latest",
+  "recovery_max_output_tokens": 32000,
+  "timeout_seconds": 900,
+  "providers": [
+    {
+      "id": "openai",
+      "provider": "openai",
+      "model": "gpt-5.5-2026-04-23",
+      "api_key_env": "OPENAI_API_KEY",
+      "reasoning_effort": "medium"
+    },
+    {
+      "id": "anthropic",
+      "provider": "anthropic",
+      "model": "claude-sonnet-5-5",
+      "api_key_env": "ANTHROPIC_API_KEY",
+      "api_version": "2026-10-21",
+      "reasoning_effort": "medium"
+    },
+    {
+      "id": "mistral",
+      "provider": "mistral",
+      "model": "mistral-large-4-0",
+      "api_key_env": "MISTRAL_API_KEY",
+      "reasoning_effort": "medium"
+    }
+  ],
+  "rules_decl": "data/regole_c.decl",
+  "rule_count": -1,
+  "rule_ids": null,
+  "country": "EN",
+  "total_cases": 50,
+  "baseline_phase1_dir": null,
+  "cohort_source_dir": "outputs/phase1_2016_2026_50_cases_32000_three_outcomes_20261123",
+  "deduplicate_exact_text": true,
+  "exclude_identifier_only": true,
+  "ocr_sidecars_dir": "data/phase2_ocr_20261123"
+}

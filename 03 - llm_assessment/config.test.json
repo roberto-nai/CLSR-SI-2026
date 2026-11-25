@@ -1,0 +1,51 @@
+{
+  "rules_csv": "data/rules_current.csv",
+  "event_log_csv": "data/curia_log_en_C_2016-2026_clean.csv",
+  "case_texts_dir": "../00 - event_log/data_text",
+  "formal_mode": "import",
+  "formal_results": "data/declare_results_current.zip",
+  "output_dir": "outputs/direct_EN_yearly_test",
+  "min_events": 5,
+  "case_category": "C",
+  "year_start": 2017,
+  "year_end": 2026,
+  "cases_per_year": 5,
+  "case_ids": null,
+  "variant_ids": null,
+  "sampling_seed": 20261117,
+  "repetitions": 1,
+  "conditions": [
+    "A"
+  ],
+  "evidence_jsonl": null,
+  "max_output_tokens": 16000,
+  "timeout_seconds": 300,
+  "providers": [
+    {
+      "id": "openai",
+      "provider": "openai",
+      "model": "gpt-5.5-2026-04-23",
+      "api_key_env": "OPENAI_API_KEY",
+      "reasoning_effort": "medium"
+    },
+    {
+      "id": "anthropic",
+      "provider": "anthropic",
+      "model": "claude-sonnet-5-5",
+      "api_key_env": "ANTHROPIC_API_KEY",
+      "api_version": "2026-10-21",
+      "reasoning_effort": "medium"
+    },
+    {
+      "id": "mistral",
+      "provider": "mistral",
+      "model": "mistral-large-4-0",
+      "api_key_env": "MISTRAL_API_KEY",
+      "reasoning_effort": "medium"
+    }
+  ],
+  "rules_decl": "data/regole_c.decl",
+  "rule_count": 3,
+  "rule_ids": null,
+  "country": "EN"
+}
